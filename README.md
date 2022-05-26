@@ -2,8 +2,6 @@
 
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
-  <br>
-  <b>Taula de continguts:</b>
   
 ---
   
