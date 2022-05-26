@@ -82,8 +82,6 @@ Introdueixo les següents línies noves:
 `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
 
 ## Instal·lar el que vulguis
-
-`sudo dnf install -y neofetch screenfetch gimp install akmod-nvidia xorg-x11-drv-nvidia-cuda`
   
 `sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc`
 
@@ -91,9 +89,9 @@ Introdueixo les següents línies noves:
   
 `sudo dnf check-update -y`
 
-### Instal·lo *VSCode*, *Google Chrome* i dependències de l'*ONLYOFFICE*
+### Instal·lo *neofetch*, *screenfetch*, *GIMP*, drivers d'*Nvidia*, *VSCode*, *Google Chrome* i dependències de l'*ONLYOFFICE*
   
-`sudo dnf install -y code google-chrome-stable dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts`
+`sudo dnf install -y neofetch screenfetch gimp akmod-nvidia xorg-x11-drv-nvidia-cuda code google-chrome-stable dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts`
   
 ### Instal·lo *ONLYOFFICE*
   
