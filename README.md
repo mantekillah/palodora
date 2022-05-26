@@ -7,7 +7,7 @@
 
 ### Taula de continguts
   
-1. [Optimitza les velocitats](#--optimitzar-velocitats)
+1) [Optimitza les velocitats](#--optimitzar-velocitats)
 2. [Actualitza el sistema](#--actualitzar-el-sistema)
 3. [Defineix el nom de la màquina](#--definir-el-nom-de-la-màquina)
 4. [Reinicia el sistema](#--reiniciar-el-sistema)
@@ -18,7 +18,7 @@
   
 ---
   
-### - Optimitzar velocitats:
+## Optimitzar velocitats:
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
