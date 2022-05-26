@@ -30,12 +30,13 @@ Introdueixo les següents línies noves a `dnf.conf`:
 
 `sudo reboot now`
 
-## Instal·la neofetch i screenfetch i activa RPM Fusion (free i nonfree)
+## Instal·lar Neofetch i Screenfetch
 
-sudo dnf install -y neofetch screenfetch
-neofetch
-clear
-sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+`sudo dnf install -y neofetch screenfetch`
+
+## Activar RPM Fusion (free i nonfree)
+
+`sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 sudo dnf -y groupupdate core
 sudo dnf -y groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
 sudo dnf -y groupupdate sound-and-video
