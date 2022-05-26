@@ -7,18 +7,18 @@
 
 ### Taula de continguts
   
-- [Optimitza les velocitats](#optimitzar-velocitats)
-- [Actualitza el sistema](#actualitzar-el-sistema)
-- [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
-- [Reinicia el sistema](#reiniciar-el-sistema)
-- [Activa els repositoris d'RPM Fusion](#activar-rpm-fusion-free-i-nonfree)
-- [Activa la paqueteria Flatpak](#activar-flatpak)
-- [Instal·la el que vulguis](#installar-el-que-vulguis)
-- [Elimina el que no vulguis](#eliminar-el-que-no-vulguis)
+- [Optimitza les velocitats](#--optimitzar-velocitats)
+- [Actualitza el sistema](#--actualitzar-el-sistema)
+- [Defineix el nom de la màquina](#--definir-el-nom-de-la-màquina)
+- [Reinicia el sistema](#--reiniciar-el-sistema)
+- [Activa els repositoris d'RPM Fusion](#--activar-rpm-fusion-free-i-nonfree)
+- [Activa la paqueteria Flatpak](#--activar-flatpak)
+- [Instal·la el que vulguis](#--installar-el-que-vulguis)
+- [Elimina el que no vulguis](#--eliminar-el-que-no-vulguis)
   
 ---
   
-#### - Optimitzar velocitats:
+### - Optimitzar velocitats:
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
@@ -34,21 +34,21 @@ Introdueixo les següents línies noves:
 
 `keepcache=True`
 
-### Actualitzar el sistema
+### - Actualitzar el sistema
 
 `sudo dnf update -y --refresh`
 
 `sudo dnf upgrade -y`
 
-### Definir el nom de la màquina
+### - Definir el nom de la màquina
 
 `sudo hostnamectl set-hostname linux`
 
-### Reiniciar el sistema
+### - Reiniciar el sistema
 
 `sudo reboot now`
 
-### Activar RPM Fusion (*free* i *nonfree*)
+### - Activar RPM Fusion (*free* i *nonfree*)
 
 `sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm`
 
@@ -66,15 +66,15 @@ Introdueixo les següents línies noves:
 
 `sudo dnf install -y \*-firmware`
 
-### Activar Flatpak
+### - Activar Flatpak
 
 `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
 
-### Instal·lar el que vulguis
+### - Instal·lar el que vulguis
 
 `sudo dnf install -y neofetch screenfetch gimp`
 
-### Eliminar el que no vulguis
+### - Eliminar el que no vulguis
 
 `sudo dnf remove -y [Per desinstal·lar folder]`
 
