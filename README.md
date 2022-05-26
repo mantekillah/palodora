@@ -7,10 +7,10 @@
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
 
-<h2 align="center">Taula de continguts</h2>
+<h3 align="center">Taula de continguts</h2>
   
-- <p align="center">[Optimitza les velocitats](#optimitzar-velocitats)</p>
-- <p align="center">[Actualitza el sistema](#actualitzar-el-sistema)</p>
+- [Optimitza les velocitats](#optimitzar-velocitats)
+- [Actualitza el sistema](#actualitzar-el-sistema)
 - [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
 - [Reinicia el sistema](#reiniciar-el-sistema)
 - [Activa els repositoris d'RPM Fusion](#activar-rpm-fusion-free-i-nonfree)
