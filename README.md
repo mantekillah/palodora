@@ -4,7 +4,10 @@
 (#actualitzar-el-sistema)
 (#definir-el-nom-de-la-màquina)
 (#reiniciar-el-sistema)
-(#)
+(#activar-rpm-fusion-free-i-nonfree)
+(#activar-flatpak)
+(#installar-el-que-vulguis)
+(#eliminar-el-que-no-vulguis)
 
 ## Optimitzar les velocitats
 
