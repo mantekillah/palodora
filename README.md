@@ -19,9 +19,9 @@
   
 ---
   
+Obrir la Terminal i anar copiant i enganxant les ordres:
+  
 ## Optimitzar velocitats
-
-Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
 `echo "fastestmirror=True" | sudo tee -a /etc/dnf/dnf.conf`
   
