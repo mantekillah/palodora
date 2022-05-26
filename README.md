@@ -5,7 +5,7 @@
 <p align="center">Instruccions i/o scripts de post-instal·lació per a Fedora Workstation 36.</p>
 
 <details>
-  <summary><b>🚧 Explicació en detall</b> (per fer-ho manualment) 🚧</summary>
+  <summary><b>🚧 Explicació en detall</b> (per fer-ho manualment)</summary>
   
 ---
   
@@ -146,7 +146,7 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 </details>
 
 <details>
-  <summary><b>🚧 Descarrega l'script 🚧</b></summary>
+  <summary><b>🚧 Descarrega l'script</b></summary>
 
 <p align="center"><b>L'script encara no està disponible.</b></p>
 
