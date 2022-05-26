@@ -1,6 +1,12 @@
 <h1 align="center">PALODORA 36</h1>
 
-## Aplicar tweaks d'optimització de les velocitats
+(#optimitzar-les-velocitats)
+(#actualitzar-el-sistema)
+(#definir-el-nom-de-la-màquina)
+(#reiniciar-el-sistema)
+(#)
+
+## Optimitzar les velocitats
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
