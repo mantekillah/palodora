@@ -1,5 +1,8 @@
 <h1 align="center">PALODORA 36</h1>
 
+<details>
+  <summary><b>Explicació en detall, per fer-ho manualment</b></summary>
+
 (#optimitzar-les-velocitats)
 (#actualitzar-el-sistema)
 (#definir-el-nom-de-la-màquina)
@@ -8,10 +11,7 @@
 (#activar-flatpak)
 (#installar-el-que-vulguis)
 (#eliminar-el-que-no-vulguis)
-
-<details>
-  <summary><b>Explicació en detall, per fer-ho manualment</b></summary>
-
+  
 ## Optimitzar les velocitats
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
