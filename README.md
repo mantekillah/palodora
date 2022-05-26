@@ -5,6 +5,7 @@
   <br>
   <b>Taula de continguts:</b>
   <br>
+  
 1) [Optimitza les velocitats](#optimitzar-velocitats)
 2) [Actualitza el sistema](#actualitzar-el-sistema)
 3) [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
