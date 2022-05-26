@@ -16,13 +16,18 @@ Introdueixo les següents línies noves a `dnf.conf`:
 
 `keepcache=True`
 
-## Actualitzar el sistema i definir el nom de la màquina
-
-Amb l'última ordre la màquina es reinicia.
+## Actualitzar el sistema
 
 `sudo dnf update -y --refresh`
+
 `sudo dnf upgrade -y`
+
+# Definir el nom de la màquina
+
 `sudo hostnamectl set-hostname linux`
+
+# Reiniciar el sistema
+
 `sudo reboot now`
 
 ###
