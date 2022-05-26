@@ -99,7 +99,7 @@ Introdueixo les següents línies noves:
 
 ## Eliminar el que no vulguis
 
-`sudo dnf remove -y rhythmbox rhythmbox-alternative-toolbar`
+`sudo dnf remove -y rhythmbox rhythmbox-alternative-toolbar fedora-chromium-config`
 `[Per desinstal·lar folder]`
 
 `sudo dnf autoremove`
