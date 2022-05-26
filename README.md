@@ -1,6 +1,6 @@
-# palodora
+# PALODORA36
 
-## Aplica tweak de velocitats
+## Aplicar tweaks d'optimització de les velocitats
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu `dnf.conf`:
 
