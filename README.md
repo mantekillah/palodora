@@ -3,8 +3,9 @@
 <details>
   <summary>Explicació en detall, per fer-ho manualment</summary>
 
-(#optimitzar-les-velocitats)
-(#actualitzar-el-sistema)
+## Taula de continguts
+- Optimitzar velocitats (#optimitzar-velocitats)
+- Actualitzar el sistema (#actualitzar-el-sistema)
 (#definir-el-nom-de-la-màquina)
 (#reiniciar-el-sistema)
 (#activar-rpm-fusion-free-i-nonfree)
@@ -12,7 +13,7 @@
 (#installar-el-que-vulguis)
 (#eliminar-el-que-no-vulguis)
   
-### Optimitzar les velocitats
+### Optimitzar velocitats
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
