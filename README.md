@@ -79,7 +79,7 @@ Introdueixo les següents línies noves:
 
 `sudo dnf install -y neofetch screenfetch gimp`
   
-`sudo dnf install -y alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree telegram-desktop android-tools gnome-sound-recorder supertux dconf-editor ffmpegthumbs htop qbittorrent curl git handbrake-gui obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger`
+`sudo dnf install -y alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree telegram-desktop android-tools gnome-sound-recorder supertux dconf-editor ffmpegthumbs htop qbittorrent curl git handbrake-gui obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl`
   
 `sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm`
   
@@ -88,6 +88,10 @@ Introdueixo les següents línies noves:
 `flatpak install -y flathub com.github.tchx84.Flatseal`
   
 `flatpak install -y flathub com.mattjakeman.ExtensionManager`
+
+`flatpak update -y`
+  
+`flatpak uninstall -y --unused --delete-data`
   
 `sudo dnf update -y --refresh
   
