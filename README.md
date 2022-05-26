@@ -1,5 +1,7 @@
 <h1 align="center">PALODORA 36</h1>
 
+<p><a href="https://github.com/palodora" target="_blank"><img src="./palodora-logo.png" width="75" /></a></p>
+
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
 
