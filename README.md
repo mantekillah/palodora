@@ -56,6 +56,10 @@ Introdueixo les següents línies noves a `dnf.conf`:
 
 `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
 
+## Instal·lo el que vull
+
+`sudo dnf install -y gimp`
+
 ## Elimino el que no vull
 
 `sudo dnf remove -y [Per desinstal·lar folder]`
