@@ -23,19 +23,15 @@
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
-`sudo nano /etc/dnf/dnf.conf`
-
-Introdueixo les següents línies noves:
-
-`fastestmirror=True`
-
-`max_parallel_downloads=10`
-
-`defaultyes=True`
-
-`keepcache=True`
+`echo "fastestmirror=True" | sudo tee -a /etc/dnf/dnf.conf`
   
-`deltarpm=True`
+`echo "max_parallel_downloads=10" | sudo tee -a /etc/dnf/dnf.conf`
+  
+`echo "defaultyes=True" | sudo tee -a /etc/dnf/dnf.conf`
+  
+`echo "keepcache=True" | sudo tee -a /etc/dnf/dnf.conf`
+  
+`echo "deltarpm=True" | sudo tee -a /etc/dnf/dnf.conf`
 
 ## Actualitzar el sistema
 
