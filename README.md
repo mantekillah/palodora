@@ -120,6 +120,8 @@ Introdueixo les següents línies noves:
 `flatpak install -y flathub com.github.tchx84.Flatseal`
   
 `flatpak install -y flathub com.mattjakeman.ExtensionManager`
+  
+`sudo flatpak override --filesystem=~/.themes`
 
 `flatpak update -y`
   
