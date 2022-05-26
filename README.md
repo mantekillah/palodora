@@ -78,6 +78,7 @@ Introdueixo les següents línies noves:
 ## Instal·lar el que vulguis
 
 `sudo dnf install -y neofetch screenfetch gimp`
+`cabextract xorg-x11-font-utils fontconfig`
 
 ## Eliminar el que no vulguis
 
