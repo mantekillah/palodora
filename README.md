@@ -1,7 +1,7 @@
 <h1 align="center">PALODORA 36</h1>
 
 <details>
-  <summary><b>Explicació en detall, per fer-ho manualment</b></summary>
+  <summary>Explicació en detall, per fer-ho manualment</summary>
 
 (#optimitzar-les-velocitats)
 (#actualitzar-el-sistema)
@@ -79,7 +79,7 @@ Introdueixo les següents línies noves:
 </details>
 
 <details>
-  <summary><b>Descarrega l'script</b></summary>
+  <summary>Descarrega l'script</summary>
 
 ## Encara no disponible.
 
