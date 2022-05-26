@@ -41,7 +41,7 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 
 ## Definir el nom de la màquina
 
-`sudo hostnamectl set-hostname linux`
+`sudo hostnamectl set-hostname linux` (en aquest cas, l'anomeno "***linux***")
 
 ## Reiniciar el sistema
 
