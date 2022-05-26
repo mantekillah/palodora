@@ -2,6 +2,8 @@
 
 [![MIT License][license-shield]][license-url]
 
+<p align="center">Instruccions de post-instal·lació per a Fedora Workstation 36.</p>
+
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
   
