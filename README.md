@@ -67,7 +67,7 @@ Introdueixo les següents línies noves:
 
 `sudo dnf install -y \*-firmware`
 
-## Instalar Còdecs
+## Instal·lar Còdecs
 
 `sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
 
