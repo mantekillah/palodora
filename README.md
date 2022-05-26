@@ -3,7 +3,7 @@
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
 
-### Taula de continguts
+  <b>Taula de continguts</b>
   
 1) [Optimitza les velocitats](#optimitzar-velocitats)
 2) [Actualitza el sistema](#actualitzar-el-sistema)
