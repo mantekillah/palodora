@@ -81,6 +81,6 @@ Introdueixo les següents línies noves:
 <details>
   <summary><b>Descarrega l'script</b></summary>
 
-Encara no disponible.
+## Encara no disponible.
 
 </details>
