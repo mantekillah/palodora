@@ -9,7 +9,7 @@
 - [Actualitza el sistema](#actualitzar-el-sistema)
 - [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
 - [Reinicia el sistema](#reiniciar-el-sistema)
-- [Activa els repositoris d'RPM Fusion (tant *free* com *nonfree*)](#activar-rpm-fusion-free-i-nonfree)
+- [Activa els repositoris d'RPM Fusion](#activar-rpm-fusion-free-i-nonfree)
 - [Activa la paqueteria Flatpak](#activar-flatpak)
 - [Instal·la el que vulguis](#installar-el-que-vulguis)
 - [Elimina el que no vulguis](#eliminar-el-que-no-vulguis)
