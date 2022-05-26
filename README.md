@@ -9,14 +9,12 @@
   
 1. [Optimitza les velocitats](#--optimitzar-velocitats)
 2. [Actualitza el sistema](#--actualitzar-el-sistema)
-
 3. [Defineix el nom de la màquina](#--definir-el-nom-de-la-màquina)
-
-4.[Reinicia el sistema](#--reiniciar-el-sistema)
-- [Activa els repositoris d'RPM Fusion](#--activar-rpm-fusion-free-i-nonfree)
-- [Activa la paqueteria Flatpak](#--activar-flatpak)
-- [Instal·la el que vulguis](#--installar-el-que-vulguis)
-- [Elimina el que no vulguis](#--eliminar-el-que-no-vulguis)
+4. [Reinicia el sistema](#--reiniciar-el-sistema)
+5. [Activa els repositoris d'RPM Fusion](#--activar-rpm-fusion-free-i-nonfree)
+6. [Activa la paqueteria Flatpak](#--activar-flatpak)
+7. [Instal·la el que vulguis](#--installar-el-que-vulguis)
+8. [Elimina el que no vulguis](#--eliminar-el-que-no-vulguis)
   
 ---
   
