@@ -89,6 +89,12 @@ Introdueixo les següents línies noves:
 
 `sudo dnf install -y code`
   
+`sudo dnf install -y fedora-workstation-repositories`
+  
+`sudo dnf config-manager --set-enabled google-chrome`
+
+`sudo dnf install -y google-chrome-stable`
+  
 `sudo dnf copr enable -y refi64/webapp-manager`
 
 `sudo dnf install -y webapp-manager`
