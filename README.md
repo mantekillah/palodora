@@ -73,6 +73,8 @@ Introdueixo les següents línies noves:
 
 `sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
   
+## Fix del rellotge
+  
 `sudo timedatectl set-local-rtc 1`
 
 ## Habilitar Flatpak
@@ -81,25 +83,24 @@ Introdueixo les següents línies noves:
 
 ## Instal·lar el que vulguis
 
-`sudo dnf install -y neofetch screenfetch gimp`
-  
-`sudo dnf install akmod-nvidia`
-  
-`sudo dnf install xorg-x11-drv-nvidia-cuda`
+`sudo dnf install -y neofetch screenfetch gimp install akmod-nvidia xorg-x11-drv-nvidia-cuda`
   
 `sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc`
 
 `sudo sh -c "echo -e '[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/vscode.repo"`
   
 `sudo dnf check-update -y`
-  
-`sudo dnf install -y code`
 
-`https://download.opera.com/download/get/?partner=www&opsys=Linux&package=RPM`
+### Instal·lo *VSCode*, *Google Chrome* i dependències de l'*ONLYOFFICE*
   
-`https://go.microsoft.com/fwlink/p/?LinkID=2112907&clcid=0x409&culture=en-us&country=US``
+`sudo dnf install -y code google-chrome-stable dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts`
+  
+### Instal·lo *ONLYOFFICE*
   
 `sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`
+  
+`https://download.opera.com/download/get/?partner=www&opsys=Linux&package=RPM`
+`https://go.microsoft.com/fwlink/p/?LinkID=2112907&clcid=0x409&culture=en-us&country=US`
   
 `sudo dnf install -y fedora-workstation-repositories`
   
