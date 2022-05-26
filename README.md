@@ -18,7 +18,7 @@
   
 ---
   
-### Optimitzar velocitats
+#### Optimitzar velocitats
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
