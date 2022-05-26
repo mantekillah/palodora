@@ -3,8 +3,8 @@
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
   <br>
-  <b>Taula de continguts</b>
-  
+  <b>Taula de continguts:</b>
+  <br>
 1) [Optimitza les velocitats](#optimitzar-velocitats)
 2) [Actualitza el sistema](#actualitzar-el-sistema)
 3) [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
@@ -16,7 +16,7 @@
   
 ---
   
-## Optimitzar velocitats:
+## Optimitzar velocitats
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
@@ -32,7 +32,7 @@ Introdueixo les següents línies noves:
 
 `keepcache=True`
 
-## Actualitzar el sistema:
+## Actualitzar el sistema
 
 `sudo dnf update -y --refresh`
 
