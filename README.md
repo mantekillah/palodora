@@ -1,4 +1,4 @@
-# PALODORA36
+# PALODORA 36
 
 ## Aplicar tweaks d'optimització de les velocitats
 
