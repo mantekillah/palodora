@@ -22,17 +22,15 @@ Introdueixo les següents línies noves a `dnf.conf`:
 
 `sudo dnf upgrade -y`
 
-# Definir el nom de la màquina
+## Definir el nom de la màquina
 
 `sudo hostnamectl set-hostname linux`
 
-# Reiniciar el sistema
+## Reiniciar el sistema
 
 `sudo reboot now`
 
-###
-# Instal·la neofetch i screenfetch i activa RPM Fusion (free i nonfree)
-###
+## Instal·la neofetch i screenfetch i activa RPM Fusion (free i nonfree)
 
 sudo dnf install -y neofetch screenfetch
 neofetch
@@ -46,15 +44,11 @@ sudo dnf install -y libdvdcss
 sudo dnf install -y rpmfusion-nonfree-release-tainted
 sudo dnf install -y \*-firmware
 
-###
-# Flatpak
-###
+## Flatpak
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-###
-# Elimino el que no vull
-###
+## Elimino el que no vull
 
 sudo dnf remove -y [Per desinstal·lar folder]
 sudo dnf autoremove
