@@ -34,7 +34,7 @@ Introdueixo les següents línies noves a `dnf.conf`:
 
 `sudo dnf install -y neofetch screenfetch`
 
-## Activar RPM Fusion (free i nonfree)
+## Activar RPM Fusion (*free* i *nonfree*)
 
 `sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm`
 
@@ -52,12 +52,14 @@ Introdueixo les següents línies noves a `dnf.conf`:
 
 `sudo dnf install -y \*-firmware`
 
-## Flatpak
+## Activar Flatpak
 
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
 
 ## Elimino el que no vull
 
-sudo dnf remove -y [Per desinstal·lar folder]
-sudo dnf autoremove
-sudo dnf clean all
+`sudo dnf remove -y [Per desinstal·lar folder]`
+
+`sudo dnf autoremove`
+
+`sudo dnf clean all`
