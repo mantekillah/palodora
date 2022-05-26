@@ -2,7 +2,7 @@
 
 ## Aplicar tweaks d'optimització de les velocitats
 
-Obrir la Terminal i posar la següent ordre per editar l'arixu ***dnf.conf***:
+Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
 
 `sudo nano /etc/dnf/dnf.conf`
 
