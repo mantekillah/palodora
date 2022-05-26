@@ -4,14 +4,15 @@
   <summary>Explicació en detall, per fer-ho manualment</summary>
 
 ## Taula de continguts
-- [Optimitzar velocitats](#optimitzar-velocitats)
-- Actualitzar el sistema (#actualitzar-el-sistema)
-(#definir-el-nom-de-la-màquina)
-(#reiniciar-el-sistema)
-(#activar-rpm-fusion-free-i-nonfree)
-(#activar-flatpak)
-(#installar-el-que-vulguis)
-(#eliminar-el-que-no-vulguis)
+  
+- [Optimitza les velocitats](#optimitzar-velocitats)
+- [Actualitza el sistema](#actualitzar-el-sistema)
+- [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
+- [Reinicia el sistema](#reiniciar-el-sistema)
+- [Activa els repositoris d'RPM Fusion (tant *free* com *nonfree*)](#activar-rpm-fusion-free-i-nonfree)
+- [Activa la paqueteria Flatpak](#activar-flatpak)
+- [Instal·la el que vulguis](#installar-el-que-vulguis)
+- [Elimina el que no vulguis](#eliminar-el-que-no-vulguis)
   
 ### Optimitzar velocitats
 
