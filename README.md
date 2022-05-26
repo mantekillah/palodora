@@ -2,7 +2,7 @@
 
 [![MIT License][license-shield]][license-url]
 
-<p align="center">Instruccions i/o script de post-instal·lació per a Fedora Workstation 36.</p>
+<p align="center">Instruccions i/o scripts de post-instal·lació per a Fedora Workstation 36.</p>
 
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
