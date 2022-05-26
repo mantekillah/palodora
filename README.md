@@ -9,6 +9,13 @@
 (#installar-el-que-vulguis)
 (#eliminar-el-que-no-vulguis)
 
+<details>
+  <summary><b>Descarrega l'Script</b></summary>
+</details>
+
+<details>
+  <summary><b>Explicació en detall, per fer-ho manualment</b></summary>
+
 ## Optimitzar les velocitats
 
 Obrir la Terminal i posar la següent ordre per editar l'arixu **dnf.conf**:
@@ -72,3 +79,5 @@ Introdueixo les següents línies noves:
 `sudo dnf autoremove`
 
 `sudo dnf clean all`
+
+</details>
