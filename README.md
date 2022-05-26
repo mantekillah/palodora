@@ -2,12 +2,19 @@
 
 ## Aplica tweak de velocitats
 
-`sudo nano /etc/dnf/dnf.conf` al Terminal. Introdueixo les següents línies noves a l'arxiu `dnf.conf`:
+Obrir la Terminal i posar la següent ordre per editar l'arixu `dnf.conf`:
 
-- fastestmirror=True
-- max_parallel_downloads=10
-- defaultyes=True
-- keepcache=True
+`sudo nano /etc/dnf/dnf.conf`
+
+Introdueixo les següents línies noves a `dnf.conf`:
+
+`fastestmirror=True`
+
+`max_parallel_downloads=10`
+
+`defaultyes=True`
+
+`keepcache=True`
 
 ## Actualitzar el sistema i definir el nom de la màquina
 
