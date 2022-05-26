@@ -2,12 +2,10 @@
 
 <p align="center"><a href="https://github.com/mantekillah/palodora" target="_blank"><img src="./palodora-logo.png" width="100" /></a></p>
 
----
-
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
 
-<h3 align="center">Taula de continguts</h2>
+### Taula de continguts
   
 - [Optimitza les velocitats](#optimitzar-velocitats)
 - [Actualitza el sistema](#actualitzar-el-sistema)
