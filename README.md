@@ -2,7 +2,7 @@
 
 [![MIT License][license-shield]][license-url]
 
-<p align="center">Instruccions de post-instal·lació per a Fedora Workstation 36.</p>
+<p align="center">Instruccions i/o script de post-instal·lació per a Fedora Workstation 36.</p>
 
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
@@ -45,10 +45,6 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 
 `sudo hostnamectl set-hostname linux` (en aquest cas, l'anomeno "***linux***")
 
-## Reiniciar el sistema
-
-`sudo reboot now`
-
 ## Activar RPM Fusion (*free* i *nonfree*)
 
 `sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm`
@@ -70,6 +66,10 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 ## Instal·lar Còdecs
 
 `sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
+  
+## Reiniciar el sistema
+
+`sudo reboot now`
   
 ## Fix del rellotge
   
