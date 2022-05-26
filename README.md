@@ -2,6 +2,8 @@
 
 <p align="center"><a href="https://github.com/mantekillah/palodora" target="_blank"><img src="./palodora-logo.png" width="100" /></a></p>
 
+---
+
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
 
@@ -15,6 +17,8 @@
 - [Activa la paqueteria Flatpak](#activar-flatpak)
 - [Instal·la el que vulguis](#installar-el-que-vulguis)
 - [Elimina el que no vulguis](#eliminar-el-que-no-vulguis)
+  
+---
   
 ### Optimitzar velocitats
 
