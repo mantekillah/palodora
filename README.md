@@ -1,11 +1,8 @@
 # palodora
 
+## Aplica tweak de velocitats
 
-###
-# Aplica tweak de velocitats
-###
-
-sudo nano /etc/dnf/dnf.conf
+`sudo nano /etc/dnf/dnf.conf`
 
 fastestmirror=True
 max_parallel_downloads=10
