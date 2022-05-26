@@ -93,7 +93,10 @@ Introdueixo les següents línies noves:
   
 `sudo dnf install -y code`
 
-`sudo rpm -i https://download.opera.com/download/get/?partner=www&opsys=Linux&package=RPM`
+`https://download.opera.com/download/get/?partner=www&opsys=Linux&package=RPM`
+  
+`https://go.microsoft.com/fwlink/p/?LinkID=2112907&clcid=0x409&culture=en-us&country=US``
+  
 `sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`
   
 `sudo dnf install -y fedora-workstation-repositories`
