@@ -93,7 +93,7 @@ Introdueixo les següents línies noves:
   
 `flatpak uninstall -y --unused --delete-data`
   
-`sudo dnf update -y --refresh
+`sudo dnf update -y --refresh`
   
 `sudo dnf autoremove -y`
 
