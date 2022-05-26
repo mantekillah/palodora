@@ -4,20 +4,19 @@
 
 `sudo nano /etc/dnf/dnf.conf` al Terminal. Introdueixo les següents línies noves a l'arxiu `dnf.conf`:
 
-* fastestmirror=True
-* max_parallel_downloads=10
-defaultyes=True
-keepcache=True
+- fastestmirror=True
+- max_parallel_downloads=10
+- defaultyes=True
+- keepcache=True
 
-###
-# Actualitza el sistema i defineix nom de la màquina. Reinicia
-###
+## Actualitzar el sistema i definir el nom de la màquina
 
-sudo dnf update -y --refresh
-sudo dnf upgrade -y
-sudo hostnamectl set-hostname linux
-clear
-sudo reboot now
+Amb l'última ordre la màquina es reinicia.
+
+`sudo dnf update -y --refresh`
+`sudo dnf upgrade -y`
+`sudo hostnamectl set-hostname linux`
+`sudo reboot now`
 
 ###
 # Instal·la neofetch i screenfetch i activa RPM Fusion (free i nonfree)
