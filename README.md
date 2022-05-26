@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/mantekillah/palodora" target="_blank"><img src="./palodora-logo.png" height="66" /></a></h1>
+<p align="center"><a href="https://github.com/mantekillah/palodora" target="_blank"><img src="./palodora-logo.png" height="66" /></a></p>
 
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
