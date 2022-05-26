@@ -84,6 +84,10 @@ Introdueixo les següents línies noves:
 `sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm`
   
 `flatpak install -y flathub com.github.muriloventuroso.pdftricks`
+
+`flatpak install -y flathub com.github.tchx84.Flatseal`
+  
+`flatpak install -y flathub com.mattjakeman.ExtensionManager`
   
 `sudo dnf update -y --refresh
   
