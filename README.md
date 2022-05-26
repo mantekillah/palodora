@@ -34,6 +34,8 @@ Introdueixo les següents línies noves:
 `defaultyes=True`
 
 `keepcache=True`
+  
+`deltarpm=True`
 
 ## Actualitzar el sistema
 
@@ -90,7 +92,8 @@ Introdueixo les següents línies noves:
 `sudo dnf check-update -y`
   
 `sudo dnf install -y code`
-  
+
+`sudo rpm -i https://download.opera.com/download/get/?partner=www&opsys=Linux&package=RPM`
 `sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`
   
 `sudo dnf install -y fedora-workstation-repositories`
