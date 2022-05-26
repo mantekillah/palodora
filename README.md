@@ -92,3 +92,6 @@ Introdueixo les següents línies noves:
 <p align="center"><b>L'script encara no està disponible.</b></p>
 
 </details>
+
+[license-shield]: https://img.shields.io/github/license/mantekillah/palodora.svg
+[license-url]: https://github.com/mantekillah/palodora/blob/master/LICENSE
