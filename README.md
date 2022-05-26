@@ -12,6 +12,7 @@
 3) [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
 4) [Reinicia el sistema](#reiniciar-el-sistema)
 5) [Activa els repositoris d'RPM Fusion](#activar-rpm-fusion-free-i-nonfree)
+6) [Instal·la còdecs](#installar-còdecs)
 6) [Activa la paqueteria Flatpak](#habilitar-flatpak)
 7) [Instal·la el que vulguis](#installar-el-que-vulguis)
 8) [Elimina el que no vulguis](#eliminar-el-que-no-vulguis)
@@ -65,6 +66,10 @@ Introdueixo les següents línies noves:
 `sudo dnf install -y rpmfusion-nonfree-release-tainted`
 
 `sudo dnf install -y \*-firmware`
+
+## Instalar Còdecs
+
+`sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
 
 ## Habilitar Flatpak
 
