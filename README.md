@@ -4,7 +4,7 @@
   <summary>Explicació en detall, per fer-ho manualment</summary>
 
 ## Taula de continguts
-- Optimitzar velocitats (#optimitzar-velocitats)
+- [Optimitzar velocitats](#optimitzar-velocitats)
 - Actualitzar el sistema (#actualitzar-el-sistema)
 (#definir-el-nom-de-la-màquina)
 (#reiniciar-el-sistema)
