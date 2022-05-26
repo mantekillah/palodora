@@ -1,6 +1,6 @@
-[![MIT License][license-shield]][license-url]
-
 <p align="center"><a href="https://github.com/mantekillah/palodora" target="_blank"><img src="./palodora-logo.png" height="66" /></a></p>
+
+[![MIT License][license-shield]][license-url]
 
 <details>
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
