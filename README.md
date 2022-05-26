@@ -91,7 +91,7 @@ Introdueixo les següents línies noves:
   
 `sudo dnf install -y code`
   
-`https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`
+`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`
   
 `sudo dnf install -y fedora-workstation-repositories`
   
