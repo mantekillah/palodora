@@ -10,7 +10,7 @@
 <h2 align="center">Taula de continguts</h2>
   
 - <p align="center">[Optimitza les velocitats](#optimitzar-velocitats)</p>
-<p align="center">- [Actualitza el sistema](#actualitzar-el-sistema)</p>
+- <p align="center">[Actualitza el sistema](#actualitzar-el-sistema)</p>
 - [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
 - [Reinicia el sistema](#reiniciar-el-sistema)
 - [Activa els repositoris d'RPM Fusion](#activar-rpm-fusion-free-i-nonfree)
