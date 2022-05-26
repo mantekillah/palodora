@@ -78,13 +78,21 @@ Introdueixo les següents línies noves:
 ## Instal·lar el que vulguis
 
 `sudo dnf install -y neofetch screenfetch gimp`
-`cabextract xorg-x11-font-utils fontconfig`
+  
+`sudo dnf install -y alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree telegram-desktop android-tools gnome-sound-recorder supertux dconf-editor ffmpegthumbs htop qbittorrent curl git handbrake-gui obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig`
   
 `sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm`
 
+`javamenu`
+  
+`sudo dnf update -y --refresh
+  
+`sudo dnf autoremove -y`
+
 ## Eliminar el que no vulguis
 
-`sudo dnf remove -y [Per desinstal·lar folder]`
+`sudo dnf remove -y rhythmbox rhythmbox-alternative-toolbar`
+`[Per desinstal·lar folder]`
 
 `sudo dnf autoremove`
 
