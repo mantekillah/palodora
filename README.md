@@ -72,6 +72,8 @@ Introdueixo les següents línies noves:
 ## Instal·lar Còdecs
 
 `sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
+  
+`sudo timedatectl set-local-rtc 1`
 
 ## Habilitar Flatpak
 
