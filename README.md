@@ -85,6 +85,6 @@ Introdueixo les següents línies noves:
 <details>
   <summary><b>Descarrega l'script</b></summary>
 
-<h3 align="center">L'script encara no està disponible.</h3>
+<p align="center"><b>L'script encara no està disponible.</b></p>
 
 </details>
