@@ -4,7 +4,8 @@
   <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
   <br>
   <b>Taula de continguts:</b>
-  <br>
+  
+---
   
 1) [Optimitza les velocitats](#optimitzar-velocitats)
 2) [Actualitza el sistema](#actualitzar-el-sistema)
@@ -81,6 +82,8 @@ Introdueixo les següents línies noves:
 
 `sudo dnf clean all`
 
+---
+  
 </details>
 
 <details>
