@@ -1,7 +1,7 @@
 <h1 align="center">PALODORA 36</h1>
 
 <details>
-  <summary>Explicació en detall, per fer-ho manualment</summary>
+  <summary><b>Explicació en detall</b> (per fer-ho manualment)</summary>
 
 ## Taula de continguts
   
