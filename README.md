@@ -61,9 +61,9 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 
 `sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
   
-<h3 align="center">Reiniciar el sistema<h3>
+<h3 align="center">Reiniciar el sistema</h3>
 
-`sudo reboot now`
+<p align="center"><b>`sudo reboot now`</b></p>
   
 ## Fix del rellotge
   
