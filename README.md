@@ -10,11 +10,11 @@
 ---
   
 1) [**Primera part de la post-instal·lació:**](#part-i-palodora-1sh)
-- [Aplicar tweaks d'optimització](#aplicant-tweaks-doptimització)
+- [Aplicar tweaks d'optimització](#aplicant-tweaks-doptimització) (millora les actualitzacions)
 - [Actualitzar el sistema](#actualitzant-el-sistema)
 - [Establir el nom de la màquina](#establint-el-nom-de-la-màquina) (pots posar el nom que vulguis a la teva màquina)
 - [Activant repos d'RPM Fusion: *free* i *nonfree*](#activant-repos-drpm-fusion-free-i-nonfree) (pots editar les ordres si, per exemple, només vols activar els *free*)
-- [Instal·lar 'Tilix'](#installant-tilix) (una terminal millorada).
+- [Instal·lar 'Tilix'](#installant-tilix) (una terminal millorada)
 - [Reiniciar el sistema](#reiniciant-el-sistema)
 2) [**Segona part de la post-instal·lació:**](#part-ii-palodora-2sh)
 - [Aplicant fix del rellotge](#aplicant-fix-del-rellotge) (només per usuaris amb *dual boot* de Windows + Fedora)
