@@ -37,7 +37,7 @@ Obrir la Terminal i anar copiant i enganxant les ordres.
 
 ## Establint el nom de la màquina:
 
-En aquest cas, l'anomenaré "***linux***")
+En aquest cas, l'anomenaré "**linux**"
   
 **`sudo hostnamectl set-hostname linux`**
 
@@ -65,7 +65,7 @@ En aquest cas, l'anomenaré "***linux***")
 
 **`sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`**
   
-## Reiniciar el sistema:
+## Reiniciant el sistema:
 
 **`sudo reboot now`**
   
