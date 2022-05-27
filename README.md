@@ -175,7 +175,6 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 **`sudo reboot now`**
   
 # HAN  
-`Blanket`
 `Descarregador de vídeo`
 `Joplin`
 `Kooha`
