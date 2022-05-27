@@ -196,7 +196,7 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 </details>
 
 
-# To-Do-List
+### To-Do-List
 
 - **Afegir apartat '*Extensions*'**: `Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`
 - **Repassar l'script 1**
