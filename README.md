@@ -144,15 +144,13 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
   
 **`sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm`**
 
+**`flatpak install -y flathub com.github.tchx84.Flatseal`**
+
 **`flatpak install -y flathub com.github.muriloventuroso.pdftricks`**
   
 **`flatpak install -y flathub io.gitlab.librewolf-community`**
-
-**`flatpak install -y flathub com.github.tchx84.Flatseal`**
   
 **`flatpak install -y flathub net.cozic.joplin_desktop`**
-
-**`flatpak install -y flathub io.github.seadve.Kooha`**
 
 **`flatpak install -y flathub com.mattjakeman.ExtensionManager`**
   
