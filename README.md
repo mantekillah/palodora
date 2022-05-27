@@ -17,6 +17,7 @@
 - [Instal·lar alguns còdecs](#installant-alguns-còdecs)
 - [Reiniciar el sistema](#reiniciant-el-sistema)
 2) [**Segona part de la post-instal·lació:**](#part-ii-palodora-2sh)
+- [Aplicant fix del rellotge](#aplicant-fix-del-rellotge) (Per usuaris amb DualBoot Windows + Fedora)
   
 ---
 
