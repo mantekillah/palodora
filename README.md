@@ -92,7 +92,7 @@ En aquest cas, l'anomenaré "**linux**"
   
 <div align="center">
   
-Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les ordres.
+Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar copiant i enganxant les ordres.
   
 ## Aplicant fix del rellotge*:
   
