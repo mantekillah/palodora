@@ -150,6 +150,38 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 
 **`sudo reboot now`**
   
+# HAN
+  
+## Linux
+`Blanket`
+`Descarregador de vídeo`
+`Escacs (GNOME)`
+`Fedy`
+`G'MIC-Qt`
+`GitHub Desktop`
+`Joplin`
+`Kooha`
+`LBRY`
+`LibreWolf`
+`Lollypop`
+`MEGAsync`
+`Microsoft Teams`
+`Opera`
+`PeaZip`
+`Peek`
+`Solitari AisleRiot`
+`Soundux`
+`Timeshift`
+`Tor`
+`Variety`
+`vokoscreenNG`
+`Xarchiver`
+`Yakuake`
+`mGBA`
+
+Extensions: `Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`
+
+  
 </div>
 
 ---
