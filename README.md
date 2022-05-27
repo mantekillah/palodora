@@ -224,7 +224,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 ### To-Do-List
 
-- ***Chequiar* les screenshots que tinc i '[fedora fresh install](https://github.com/search?q=fedora+fresh+install&type=Repositories)'** a veure que no em descuidi cap cosa.
+- ***Chequiar* 'fedora-todo.txt' i '[fedora fresh install](https://github.com/search?q=fedora+fresh+install&type=Repositories)'** a veure que no em descuidi cap cosa.
 - **Afegir apartat '*Extensions*'** tant a l'explicació com a l'script:
 	- blur-my-shell@aunetx [Blur my Shell]
 	- color-picker@tuberry [Color Picker]
