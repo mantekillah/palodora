@@ -21,7 +21,9 @@
 - [Habilitar la paqueteria *Flatpak*](#habilitant-la-paqueteria-flatpak)
 - [Instal·lació automàtica de múltiples programes i/o aplicacions](#installació-automàtica-de-múltiples-programes-io-aplicacions)
 - [Desinstal·lació automàtica de múltiples programes i/o aplicacions](#desinstallació-automàtica-de-múltiples-programes-io-aplicacions)
-  
+- [Actualitzar el equip i netejar brossa](#actualitzant-el-equip-i-netejant-la-brossa)
+- [Reiniciar el sistema](#reiniciant-el-sistema)
+
 ---
 
 # Part I (**`palodora-1.sh`**)
@@ -130,24 +132,28 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 
 **`sudo dnf remove -y gnome-terminal libreoffice*`**
   
-# GNG
+## Actualitzant el equip i netejant la brossa
 
-`flatpak update -y`
-  
-`flatpak uninstall -y --unused --delete-data`
-  
-`sudo dnf update -y --refresh`
-  
-`fc-cache -v`
-  
-`sudo dnf autoremove -y`
+**`flatpak update -y`**
 
-`sudo dnf remove -y rhythmbox rhythmbox-alternative-toolbar fedora-chromium-config`
-`[Per desinstal·lar folder]`
+**`flatpak uninstall -y --unused --delete-data`**
 
-`sudo dnf autoremove`
+**`sudo dnf update -y --refresh`**
 
-`sudo dnf clean all`
+**`fc-cache -v`**
+
+**`sudo dnf autoremove -y`**
+
+**`sudo dnf clean all`**
+
+## Reiniciant el sistema:
+
+**`sudo reboot now`**
+
+# HAN
+
+*`sudo dnf remove -y rhythmbox rhythmbox-alternative-toolbar fedora-chromium-config`*
+*`[Per desinstal·lar folder]`*
   
 </div>
 
