@@ -83,11 +83,11 @@ En aquest cas, l'anomenaré "**linux**"
 Després del reinici, torna a obrir la Terminal i continua copiant i enganxant les ordres.
   
 ## Aplicant fix del rellotge*:
-
-*- fix necessàri per als que tenen un Dual Boot de Fedora amb Windows.
   
 **`sudo timedatectl set-local-rtc 1`**
 
+*- fix necessàri per als que tenen un Dual Boot de Fedora amb Windows.
+  
 ## Habilitant la paqueteria Flatpak:
   
 **`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`**
