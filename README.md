@@ -175,7 +175,6 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 # HAN  
 `Blanket`
 `Descarregador de vídeo`
-`GitHub Desktop`
 `Joplin`
 `Kooha`
 `LBRY`
