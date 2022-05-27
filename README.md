@@ -110,6 +110,8 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
   
 **`sudo dnf copr enable -y refi64/webapp-manager`**
   
+**`sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/36/winehq.repo`**
+  
 **`sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc`**
   
 **`sudo sh -c "echo -e '[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/vscode.repo"`**
@@ -138,7 +140,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 **`sudo dnf check-update -y`**
   
-**`sudo dnf install -y libfreeaptx pipewire-codec-aptx code teams opera-stable neofetch screenfetch akmod-nvidia xorg-x11-drv-nvidia-cuda gimp google-chrome-stable dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts webapp-manager megasync nautilus-megasync bpytop xclip filezilla gnome-chess fontawesome-fonts gnome-shell-extension-dash-to-dock gnome-shell-extension-netspeed micro papirus-icon-theme peek discord gnome-shell-extension-user-theme alien bleachbit torbrowser-launcher gparted vlc p7zip* gnome-tweaks aisleriot gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree drawing telegram-desktop android-tools gnome-sound-recorder video-downloader dconf-editor kdenlive ffmpegthumbs htop qbittorrent curl git handbrake-gui tilix* obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus vokoscreenNG cpu-x libretro-mgba variety xarchiver gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl xorg-x11-drv-amdgpu grub-customizer vim steam git mesa-libGLU.i686 timeshift htop lutris`**
+**`sudo dnf install -y libfreeaptx pipewire-codec-aptx code teams opera-stable neofetch screenfetch akmod-nvidia xorg-x11-drv-nvidia-cuda gimp google-chrome-stable dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts webapp-manager megasync nautilus-megasync bpytop xclip filezilla gnome-chess fontawesome-fonts gnome-shell-extension-dash-to-dock winehq-devel gnome-shell-extension-netspeed micro papirus-icon-theme peek discord gnome-shell-extension-user-theme alien bleachbit torbrowser-launcher gparted vlc p7zip* gnome-tweaks aisleriot gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree drawing telegram-desktop android-tools gnome-sound-recorder video-downloader dconf-editor kdenlive ffmpegthumbs htop qbittorrent curl git handbrake-gui tilix* obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus vokoscreenNG cpu-x libretro-mgba variety xarchiver gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl xorg-x11-drv-amdgpu grub-customizer vim steam git mesa-libGLU.i686 timeshift htop lutris --allowerasing`**
   
 **`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`**
   
