@@ -68,8 +68,10 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 `sudo reboot now`
   
 </div>
-  
-## Fix del rellotge
+
+---
+
+#### Fix del rellotge
   
 `sudo timedatectl set-local-rtc 1`
 
