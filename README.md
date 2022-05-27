@@ -101,20 +101,6 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
 ## Habilitant la paqueteria *Flatpak*:
   
 **`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`**
-
-## Instal·lant *VSCode*:
-  
-**`sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc`**
-  
-**`sudo sh -c "echo -e '[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/vscode.repo"`**
-
-**`sudo dnf check-update -y`**
-
-**`sudo dnf install -y code`**
-
-## Instal·lant *WebApp Manager*:
-
-**`sudo dnf copr enable -y refi64/webapp-manager`**
   
 ## Desinstal·lant *LibreOffice*:
   
@@ -122,9 +108,15 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 ## Instal·lació automàtica de múltiples programes i/o aplicacions
   
-`sudo dnf install -y libfreeaptx pipewire-codec-aptx neofetch screenfetch akmod-nvidia xorg-x11-drv-nvidia-cuda gimp google-chrome-stable dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts webapp-manager bpytop xclip filezilla fontawesome-fonts gnome-shell-extension-dash-to-dock gnome-shell-extension-netspeed micro papirus-icon-theme discord gnome-pomodoro gnome-shell-extension-user-theme alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree drawing telegram-desktop android-tools gnome-sound-recorder dconf-editor kdenlive ffmpegthumbs htop qbittorrent curl git handbrake-gui tilix* obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl xorg-x11-drv-amdgpu grub-customizer vim steam git mesa-libGLU.i686 timeshift htop lutris`
+**`sudo dnf copr enable -y refi64/webapp-manager`**
+  
+**`sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc`**
+  
+**`sudo sh -c "echo -e '[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/vscode.repo"`**
 
-## Instal·lant *ONLYOFFICE*:
+**`sudo dnf check-update -y`**
+  
+**`sudo dnf install -y libfreeaptx pipewire-codec-aptx code neofetch screenfetch akmod-nvidia xorg-x11-drv-nvidia-cuda gimp google-chrome-stable dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts webapp-manager bpytop xclip filezilla fontawesome-fonts gnome-shell-extension-dash-to-dock gnome-shell-extension-netspeed micro papirus-icon-theme discord gnome-pomodoro gnome-shell-extension-user-theme alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree drawing telegram-desktop android-tools gnome-sound-recorder dconf-editor kdenlive ffmpegthumbs htop qbittorrent curl git handbrake-gui tilix* obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl xorg-x11-drv-amdgpu grub-customizer vim steam git mesa-libGLU.i686 timeshift htop lutris`**
   
 **`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`**
 
