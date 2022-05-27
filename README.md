@@ -15,7 +15,7 @@
 
 <div align="center">
   
-Obrir la Terminal i anar copiant i enganxant les ordres:
+Obrir la Terminal i anar copiant i enganxant les ordres.
   
 #### Aplicar tweaks d'optimització:
 
@@ -71,6 +71,8 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 
 ---
 
+Després del reinici, torna a obrir la Terminal i continua copiant i enganxant les ordres:
+  
 #### Fix del rellotge
   
 `sudo timedatectl set-local-rtc 1`
