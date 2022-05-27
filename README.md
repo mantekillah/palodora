@@ -151,8 +151,6 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 **`sudo reboot now`**
   
 # HAN
-  
-## Linux
 `Blanket`
 `Descarregador de vídeo`
 `Escacs (GNOME)`
