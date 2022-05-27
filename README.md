@@ -9,30 +9,22 @@
   
 ---
   
-1) [Optimitza les velocitats](#optimitzar-velocitats)
-2) [Actualitza el sistema](#actualitzar-el-sistema)
-3) [Defineix el nom de la màquina](#definir-el-nom-de-la-màquina)
-4) [Reinicia el sistema](#reiniciar-el-sistema)
-5) [Activa els repositoris d'RPM Fusion](#activar-rpm-fusion-free-i-nonfree)
-6) [Instal·la còdecs](#installar-còdecs)
-6) [Activa la paqueteria Flatpak](#habilitar-flatpak)
-7) [Instal·la el que vulguis](#installar-el-que-vulguis)
-8) [Elimina el que no vulguis](#eliminar-el-que-no-vulguis)
+1) Índex
   
 ---
   
 Obrir la Terminal i anar copiant i enganxant les ordres:
   
-## Optimitzar velocitats
+## Aplicar tweaks d'optimització
 
 `echo "fastestmirror=True" | sudo tee -a /etc/dnf/dnf.conf`
-  
+
 `echo "max_parallel_downloads=10" | sudo tee -a /etc/dnf/dnf.conf`
-  
+
 `echo "defaultyes=True" | sudo tee -a /etc/dnf/dnf.conf`
-  
+
 `echo "keepcache=True" | sudo tee -a /etc/dnf/dnf.conf`
-  
+
 `echo "deltarpm=True" | sudo tee -a /etc/dnf/dnf.conf`
 
 ## Actualitzar el sistema
