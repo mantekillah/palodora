@@ -13,6 +13,8 @@
   
 ---
 
+# Part 1 (script: **`palodora-1.sh`**)
+  
 <div align="center">
   
 Obrir la Terminal i anar copiant i enganxant les ordres.
