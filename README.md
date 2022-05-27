@@ -222,17 +222,17 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 - ***Chequiar* les screenshots que tinc i '[fedora fresh install](https://github.com/search?q=fedora+fresh+install&type=Repositories)'** a veure que no em descuidi cap cosa.
 - **Afegir apartat '*Extensions*'** (+ `User Themes`) tant a l'explicació com a l'script:
-		- blur-my-shell@aunetx [Blur my Shell]
-		- color-picker@tuberry [Color Picker]
-		- ding@rastersoft.com [Desktop Icons NG (DING)]
-		- espresso@coadmunkee.github.com [Espresso]
-		- gsconnect@andyholmes.github.io [GSConnect]
-		- impatience@gfxmonk.net [Impatience]
-		- gnome-shell-screenshot@ttll.de [Screenshot Tool]
-		- sound-output-device-chooser@kgshank.net
-		- tiling-assistant@leleat-on-github [Tiling Assistant]
-		- trayIconsReloaded@selfmade.pl [Tray Icons: Reloaded]
-		- pop-shell@system76.com [Pop Shell]
+	- blur-my-shell@aunetx [Blur my Shell]
+	- color-picker@tuberry [Color Picker]
+	- ding@rastersoft.com [Desktop Icons NG (DING)]
+	- espresso@coadmunkee.github.com [Espresso]
+	- gsconnect@andyholmes.github.io [GSConnect]
+	- impatience@gfxmonk.net [Impatience]
+	- gnome-shell-screenshot@ttll.de [Screenshot Tool]
+	- sound-output-device-chooser@kgshank.net
+	- tiling-assistant@leleat-on-github [Tiling Assistant]
+	- trayIconsReloaded@selfmade.pl [Tray Icons: Reloaded]
+	- pop-shell@system76.com [Pop Shell]
 - **Repassar l'script 1** per tal que cuadri amb les explicacions.
 - **Refer de 0 l'script 2** perque he canviat masses coses mentres feia l'explicació.
 - **Provar el jove Frankenstein by mantekillah** en una instal·lació i màquina real.
