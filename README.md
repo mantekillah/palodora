@@ -26,6 +26,7 @@
 - [Instal·lar *Google Chrome*](#installant-google-chrome)
 - [Instal·lar *ONLYOFFICE*](#installant-onlyoffice)
 - [Instal·lar *WebbApp Manager*](#installant-webapp-manager)
+- [Desinstal·lar *LibreOffice*](#desinstallant-libreoffice)
   
 ---
 
@@ -145,6 +146,10 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 **`sudo dnf install -y webapp-manager`**
   
+## Desinstal·lant LibreOffice:
+  
+**`sudo dnf remove -y libreoffice*`**
+  
 # TEST
   
 `sudo dnf install -y bpytop xclip filezilla fontawesome-fonts gnome-shell-extension-dash-to-dock gnome-shell-extension-netspeed gnome-shell-extension-gpaste micro papirus-icon-theme discord gnome-pomodoro gnome-shell-extension-user-theme simplescreenrecorder alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree telegram-desktop android-tools gnome-sound-recorder supertux dconf-editor kdenlive ffmpegthumbs htop qbittorrent curl git handbrake-gui obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl xorg-x11-drv-amdgpu grub-customizer vim steam git mesa-libGLU.i686 timeshift htop lutris`
@@ -169,9 +174,7 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 `sudo dnf autoremove -y`
 
-## Eliminar el que no vulguis
-
-`sudo dnf remove -y libreoffice* rhythmbox rhythmbox-alternative-toolbar fedora-chromium-config`
+`sudo dnf remove -y rhythmbox rhythmbox-alternative-toolbar fedora-chromium-config`
 `[Per desinstal·lar folder]`
 
 `sudo dnf autoremove`
