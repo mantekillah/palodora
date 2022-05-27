@@ -82,7 +82,10 @@ En aquest cas, l'anomenaré "**linux**"
   
 Després del reinici, torna a obrir la Terminal i continua copiant i enganxant les ordres.
   
-echo "Aplicant fix del rellotge (dualboot)..."
+## Aplicant fix del rellotge*:
+
+*- Fix necessàri per a persones que tenen dualboot de Fedora amb Windows.
+  
 sudo timedatectl set-local-rtc 1
 echo "Fet! Fix del rellotge (dualboot) aplicat"
 
