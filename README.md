@@ -184,12 +184,6 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 
 </div>
 
-# To-Do-List
-
-- **Afegir apartat `*Extensions*'**: `Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`
-- **Repassar l'script 1**
-- **Refer de 0 l'script 2**
-
 ---
   
 </details>
@@ -200,6 +194,13 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 <p align="center"><b>L'script encara no està disponible.</b></p>
 
 </details>
+
+
+# To-Do-List
+
+- **Afegir apartat '*Extensions*'**: `Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`
+- **Repassar l'script 1**
+- **Refer de 0 l'script 2**
 
 [license-shield]: https://img.shields.io/github/license/mantekillah/palodora.svg
 [license-url]: https://github.com/mantekillah/palodora/blob/master/LICENSE
