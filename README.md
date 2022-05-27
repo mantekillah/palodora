@@ -9,9 +9,14 @@
   
 ---
   
-1) [**Primera part de la post-instal·lació**](#part-i-palodora-1sh)
+1) [**Primera part de la post-instal·lació:**](#part-i-palodora-1sh)
 - [Aplicar tweaks d'optimització](#aplicant-tweaks-doptimització)
-2) [**Segona part de la post-instal·lació**](#part-ii-palodora-2sh)
+- [Actualitzar el sistema](#actualitzant-el-sistema)
+- [Establir el nom de la màquina](#establint-el-nom-de-la-màquina)
+- [Activant repos d'RPM Fusion (*free* i *nonfree*)](#)
+- [Instal·lar alguns còdecs](#installant-alguns-còdecs)
+- [Reiniciar el sistema](#reiniciant-el-sistema)
+2) [**Segona part de la post-instal·lació:**](#part-ii-palodora-2sh)
   
 ---
 
@@ -45,7 +50,7 @@ En aquest cas, l'anomenaré "**linux**"
   
 **`sudo hostnamectl set-hostname linux`**
 
-## Activant RPM Fusion (*free* i *nonfree*):
+## Activant repos d'RPM Fusion (*free* i *nonfree*):
 
 **`sudo dnf install -y fedora-workstation-repositories`**
   
