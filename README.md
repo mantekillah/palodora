@@ -14,12 +14,13 @@
 - [Actualitzar el sistema](#actualitzant-el-sistema)
 - [Establir el nom de la màquina](#establint-el-nom-de-la-màquina) (pots posar el nom que vulguis a la teva màquina)
 - [Activant repos d'RPM Fusion (*free* i *nonfree*)](#activant-repos-drpm-fusion-free-i-nonfree) (pots editar les ordres si, per exemple, només vols activar els *free*)
+- [Instal·lar *Tilix*](#installant-tilix)
 - [Reiniciar el sistema](#reiniciant-el-sistema)
 2) [**Segona part de la post-instal·lació:**](#part-ii-palodora-2sh)
 - [Aplicant fix del rellotge](#aplicant-fix-del-rellotge) (només per usuaris amb *dual boot* de Windows + Fedora)
 - [Habilitar la paqueteria *Flatpak*](#habilitant-la-paqueteria-flatpak)
 - [Instal·lació automàtica de múltiples programes i/o aplicacions](#installació-automàtica-de-múltiples-programes-io-aplicacions)
-- [Desinstal·lar *LibreOffice*](#desinstallant-libreoffice)
+- [Desinstal·lació automàtica de múltiples programes i/o aplicacions](#desinstallació-automàtica-de-múltiples-programes-io-aplicacions)
   
 ---
 
@@ -72,6 +73,10 @@ En aquest cas, l'anomenaré "**linux**"
 **`sudo dnf install -y rpmfusion-nonfree-release-tainted`**
   
 **`sudo dnf install -y \*-firmware`**
+  
+## Instal·lant *Tilix*
+  
+**`sudo dnf install -y tilix*`**
 
 ## Reiniciant el sistema:
 
@@ -85,7 +90,7 @@ En aquest cas, l'anomenaré "**linux**"
   
 <div align="center">
   
-Després del reinici, torna a obrir la Terminal i continua copiant i enganxant les ordres.
+Després del reinici, torna a obrir **Tilix** i continua copiant i enganxant les ordres.
   
 ## Aplicant fix del rellotge*:
   
@@ -97,7 +102,7 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 **`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`**
   
-## Instal·lació automàtica de múltiples programes i/o aplicacions
+## Instal·lació automàtica de múltiples programes i/o aplicacions:
   
 **`sudo dnf copr enable -y refi64/webapp-manager`**
   
@@ -111,8 +116,8 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 **`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`**
 
-## Desinstal·lant *LibreOffice*:
-  
+## Desinstal·lació automàtica de múltiples programes i/o aplicacions:  
+
 **`sudo dnf remove -y libreoffice*`**
   
 # GNG  
