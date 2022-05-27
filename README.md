@@ -18,12 +18,7 @@
 2) [**Segona part de la post-instal·lació:**](#part-ii-palodora-2sh)
 - [Aplicant fix del rellotge](#aplicant-fix-del-rellotge) (només per usuaris amb *dual boot* de Windows + Fedora)
 - [Habilitar la paqueteria *Flatpak*](#habilitant-la-paqueteria-flatpak)
-- [Instal·lar drivers d'*Nvidia*](#installant-drivers-dnvidia) (només per usuaris que tenen una GPU Nvidia)
-- [Instal·lar *Visual Studio Code*](#installant-vscode)
-- [Instal·lar *GIMP*](#installant-gimp)
-- [Instal·lar *Google Chrome*](#installant-chrome)
-- [Instal·lar *ONLYOFFICE*](#installant-onlyoffice)
-- [Instal·lar *WebbApp Manager*](#installant-webapp-manager)
+- [Instal·lació automàtica de múltiples programes i/o aplicacions](#installació-automàtica-de-múltiples-programes-io-aplicacions)
 - [Desinstal·lar *LibreOffice*](#desinstallant-libreoffice)
   
 ---
@@ -102,10 +97,6 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 **`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`**
   
-## Desinstal·lant *LibreOffice*:
-  
-**`sudo dnf remove -y libreoffice*`**
-  
 ## Instal·lació automàtica de múltiples programes i/o aplicacions
   
 **`sudo dnf copr enable -y refi64/webapp-manager`**
@@ -120,6 +111,10 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 **`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`**
 
+## Desinstal·lant *LibreOffice*:
+  
+**`sudo dnf remove -y libreoffice*`**
+  
 # GNG  
 
 `sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm`
