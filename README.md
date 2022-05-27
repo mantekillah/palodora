@@ -12,10 +12,12 @@
 1) Índex
   
 ---
+
+<p align="center">
   
 Obrir la Terminal i anar copiant i enganxant les ordres:
   
-<h3 align="center">Aplicar tweaks d'optimització</h3>
+### Aplicar tweaks d'optimització
 
 `echo "fastestmirror=True" | sudo tee -a /etc/dnf/dnf.conf`
 
@@ -61,7 +63,7 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 
 `sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
   
-<h3 align="center">Reiniciar el sistema</h3><p align="center">
+<h3 align="center">Reiniciar el sistema</h3>
   
 `sudo reboot now`
   
