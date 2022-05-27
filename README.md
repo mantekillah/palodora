@@ -153,6 +153,8 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 **`flatpak install -y flathub io.gitlab.librewolf-community`**
   
 **`flatpak install -y flathub net.cozic.joplin_desktop`**
+  
+**`flatpak install -y flathub io.github.Soundux`**
 
 **`flatpak install -y flathub com.mattjakeman.ExtensionManager`**
   
@@ -183,7 +185,6 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 # HAN  
 `LBRY`
 `PeaZip`
-`Soundux`
 
 Extensions: `Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`
 
