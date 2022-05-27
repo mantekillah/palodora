@@ -57,3 +57,9 @@ echo "Instal·lant WebApp Manager..."
 sudo dnf copr enable -y refi64/webapp-manager
 sudo dnf install -y webapp-manager
 echo "Fet! WebApp Manager instal·lat."
+
+clear
+
+echo "Desinstal·lant LibreOffice..."
+sudo dnf remove -y libreoffice*
+echo "Fet! LibreOffice desinstal·lat."
