@@ -192,6 +192,8 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
   <summary><b>🚧 Descarrega l'script</b></summary>
 
 <p align="center"><b>L'script encara no està disponible.</b></p>
+  
+---
 
 </details>
 
