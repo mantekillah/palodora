@@ -15,7 +15,7 @@
   
 Obrir la Terminal i anar copiant i enganxant les ordres:
   
-## Aplicar tweaks d'optimització
+### Aplicar tweaks d'optimització
 
 `echo "fastestmirror=True" | sudo tee -a /etc/dnf/dnf.conf`
 
@@ -27,32 +27,34 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 
 `echo "deltarpm=True" | sudo tee -a /etc/dnf/dnf.conf`
 
-## Actualitzar el sistema
+### Actualitzar el sistema
 
 `sudo dnf update -y --refresh`
 
 `sudo dnf upgrade -y`
 
-## Definir el nom de la màquina
+### Establir el nom de la màquina
 
 `sudo hostnamectl set-hostname linux` (en aquest cas, l'anomeno "***linux***")
 
-## Activar RPM Fusion (*free* i *nonfree*)
+### Activar RPM Fusion (*free* i *nonfree*)
 
+`sudo dnf install -y fedora-workstation-repositories`
+  
 `sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm`
-
+  
 `sudo dnf -y groupupdate core`
-
+  
 `sudo dnf -y groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin`
-
+  
 `sudo dnf -y groupupdate sound-and-video`
-
+  
 `sudo dnf install -y rpmfusion-free-release-tainted`
-
+  
 `sudo dnf install -y libdvdcss`
-
+  
 `sudo dnf install -y rpmfusion-nonfree-release-tainted`
-
+  
 `sudo dnf install -y \*-firmware`
 
 ## Instal·lar Còdecs
