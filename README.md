@@ -140,6 +140,8 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
   
 **`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`**
   
+**`sudo rpm -i https://github.com/shiftkey/desktop/releases/download/release-3.0.0-linux2/GitHubDesktop-linux-3.0.0-linux2.rpm`**
+  
 **`sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm`**
 
 **`flatpak install -y flathub com.github.muriloventuroso.pdftricks`**
