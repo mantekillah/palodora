@@ -130,7 +130,7 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 
 ## Desinstal·lació automàtica de múltiples programes i/o aplicacions:  
 
-**`sudo dnf remove -y gnome-tour gnome-contacts gnome-terminal libreoffice* rhythmbox* yelp fedora-chromium-config mediawriter`**
+**`sudo dnf remove -y gnome-tour gnome-contacts gnome-terminal libreoffice* rhythmbox* yelp fedora-chromium-config mediawriter gnome-maps gnome-weather gnome-photos totem`**
   
 ## Actualitzant el equip i netejant la brossa
 
@@ -149,10 +149,6 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 ## Reiniciant el sistema:
 
 **`sudo reboot now`**
-
-# HAN
-
-*`sudo dnf remove -y [Per desinstal·lar folder]`*
   
 </div>
 
