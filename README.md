@@ -130,7 +130,7 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 
 ## Desinstal·lació automàtica de múltiples programes i/o aplicacions:  
 
-**`sudo dnf remove -y gnome-terminal libreoffice* rhythmbox* fedora-chromium-config mediawriter`**
+**`sudo dnf remove -y gnome-terminal libreoffice* rhythmbox* yelp fedora-chromium-config mediawriter`**
   
 ## Actualitzant el equip i netejant la brossa
 
