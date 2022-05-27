@@ -181,15 +181,14 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 ## Reiniciant el sistema:
 
 **`sudo reboot now`**
-  
-# HAN  
-`LBRY`
-`PeaZip`
 
-Extensions: `Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`
-
-  
 </div>
+
+# To-Do-List
+
+- **Afegir apartat `*Extensions*'**: `Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`
+- **Repassar l'script 1**
+- **Refer de 0 l'script 2**
 
 ---
   
