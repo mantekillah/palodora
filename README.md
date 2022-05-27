@@ -20,6 +20,10 @@
 - [Aplicant fix del rellotge](#aplicant-fix-del-rellotge) (només per usuaris amb *dual boot* de Windows + Fedora)
 - [Habilitar la paqueteria *Flatpak*](#habilitant-la-paqueteria-flatpak)
 - [Instal·lar drivers d'*Nvidia*](#installant-drivers-dnvidia) (només per usuaris que tenen una GPU Nvidia)
+- [Instal·lar *Visual Studio Code*](#installant-visual-studio-code)
+- [Instal·lar *neofetch* + *screenfetch*](#installant-neofetch-screenfetch)
+- [Instal·lar *GIMP*](#installant-gimp)
+- [Instal·lar *Google Chrome*](#installant-google-chrome)
   
 ---
 
