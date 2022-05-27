@@ -13,7 +13,7 @@
   
 ---
 
-# Part 1 (script: **`palodora-1.sh`**)
+# Part 1 (**`palodora-1.sh`**)
   
 <div align="center">
   
