@@ -150,7 +150,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 **`cd Colloid-gtk-theme`**
 
-**`sudo sh ./install.sh`**
+**`sudo sh ./install.sh --theme purple --tweaks dracula rimless`**
 
 **`cd`**
 
