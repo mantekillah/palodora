@@ -200,10 +200,10 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 ### To-Do-List
 
+- ***Chequiar* les screenshots que tinc i 'fedora fresh install'** a veure que no em descuidi cap cosa.
 - **Afegir apartat '*Extensions*'** (`Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`) tant a l'explicació com a l'script.
 - **Repassar l'script 1** per tal que cuadri amb les explicacions.
 - **Refer de 0 l'script 2** perque he canviat masses coses mentres feia l'explicació.
-- ***Chequiar* les screenshots que tinc i 'fedora fresh install'** a veure que no em descuidi cap cosa.
 - **Provar el jove Frankenstein by mantekillah** en una instal·lació i màquina real.
 
 [license-shield]: https://img.shields.io/github/license/mantekillah/palodora.svg
