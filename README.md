@@ -61,9 +61,7 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
 
 `sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
   
-<h3 align="center">Reiniciar el sistema</h3>
-  
-<p align="center">
+<h3 align="center">Reiniciar el sistema</h3><p align="center">
   
 `sudo reboot now`
   
