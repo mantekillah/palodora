@@ -90,7 +90,7 @@ En aquest cas, l'anomenaré "**linux**"
   
 <div align="center">
   
-Després del reinici, torna a obrir **Tilix** i continua copiant i enganxant les ordres.
+Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les ordres.
   
 ## Aplicant fix del rellotge*:
   
@@ -101,6 +101,8 @@ Després del reinici, torna a obrir **Tilix** i continua copiant i enganxant les
 ## Habilitant la paqueteria *Flatpak*:
   
 **`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`**
+  
+**`sudo flatpak override --filesystem=~/.themes`**
   
 ## Instal·lació automàtica de múltiples programes i/o aplicacions:
   
@@ -118,7 +120,7 @@ Després del reinici, torna a obrir **Tilix** i continua copiant i enganxant les
 
 ## Desinstal·lació automàtica de múltiples programes i/o aplicacions:  
 
-**`sudo dnf remove -y libreoffice*`**
+**`sudo dnf remove -y gnome-terminal libreoffice*`**
   
 # GNG  
 
@@ -129,8 +131,6 @@ Després del reinici, torna a obrir **Tilix** i continua copiant i enganxant les
 `flatpak install -y flathub com.github.tchx84.Flatseal`
   
 `flatpak install -y flathub com.mattjakeman.ExtensionManager`
-  
-`sudo flatpak override --filesystem=~/.themes`
 
 `flatpak update -y`
   
