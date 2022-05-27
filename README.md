@@ -147,6 +147,10 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 **`flatpak install -y flathub com.github.muriloventuroso.pdftricks`**
 
 **`flatpak install -y flathub com.github.tchx84.Flatseal`**
+  
+**`flatpak install -y flathub net.cozic.joplin_desktop`**
+
+**`flatpak install -y flathub io.github.seadve.Kooha`**
 
 **`flatpak install -y flathub com.mattjakeman.ExtensionManager`**
   
@@ -174,10 +178,7 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 
 **`sudo reboot now`**
   
-# HAN  
-`Descarregador de vídeo`
-`Joplin`
-`Kooha`
+# HAN
 `LBRY`
 `LibreWolf`
 `Lollypop`
