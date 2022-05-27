@@ -149,6 +149,8 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 **`flatpak install -y flathub com.github.tchx84.Flatseal`**
 
 **`flatpak install -y flathub com.mattjakeman.ExtensionManager`**
+  
+**`flatpak install -y flathub com.rafaelmardojai.Blanket`**
 
 ## Desinstal·lació automàtica de múltiples programes i/o aplicacions:  
 
