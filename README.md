@@ -13,7 +13,7 @@
   
 ---
 
-<p align="center">
+<div align="center">
   
 Obrir la Terminal i anar copiant i enganxant les ordres:
   
@@ -67,7 +67,7 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
   
 `sudo reboot now`
   
-</p>
+</div>
   
 ## Fix del rellotge
   
