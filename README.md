@@ -174,8 +174,6 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 `Blanket`
 `Descarregador de vídeo`
 `Escacs (GNOME)`
-`Fedy`
-`G'MIC-Qt`
 `GitHub Desktop`
 `Joplin`
 `Kooha`
@@ -193,7 +191,6 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 `Variety`
 `vokoscreenNG`
 `Xarchiver`
-`Yakuake`
 `mGBA`
 
 Extensions: `Blur my Shell` `Dash to Dock` `Dash to Panel` `Desktop Icons: Neo` `Impatience` `Screenshot Tool` `Tiling Assistant` `User Themes` `Espresso` `Sound Output Device Chooser` `GSConnect`
