@@ -116,31 +116,21 @@ echo "Instal·lant GIMP..."
 sudo dnf install -y gimp
 echo "Fet! GIMP instal·lat."
 
-clear
+## Instal·lant Google Chrome:
 
-echo "Instal·lant Google Chrome..."
-sudo dnf install -y google-chrome-stable
-echo "Fet! Google Chrome instal·lat."
+**`sudo dnf install -y google-chrome-stable`**
 
-clear
+## Instal·lant ONLYOFFICE:
+  
+**`sudo dnf install -y dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts`**
 
-echo "Instal·lant ONLYOFFICE..."
-sudo dnf install -y dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts
-sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm
-echo "Fet! ONLYOFFICE instal·lat."
+**`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`**
 
-clear
+## Instal·lant WebApp Manager:
 
-echo "Instal·lant WebApp Manager..."
-sudo dnf copr enable -y refi64/webapp-manager
-sudo dnf install -y webapp-manager
-echo "Fet! WebApp Manager instal·lat."
-
-## Habilitar Flatpak
-
-`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
-
-## Instal·lar el que vulguis
+**`sudo dnf copr enable -y refi64/webapp-manager`**
+  
+**`sudo dnf install -y webapp-manager`**
   
 ### Preparant la descarrega del *Visual Studio Code*
   
