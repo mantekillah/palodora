@@ -14,7 +14,6 @@
 - [Actualitzar el sistema](#actualitzant-el-sistema)
 - [Establir el nom de la màquina](#establint-el-nom-de-la-màquina) (pots posar el nom que vulguis a la teva màquina)
 - [Activant repos d'RPM Fusion (*free* i *nonfree*)](#activant-repos-drpm-fusion-free-i-nonfree) (pots editar les ordres si, per exemple, només vols activar els *free*)
-- [Instal·lar alguns còdecs](#installant-alguns-còdecs)
 - [Reiniciar el sistema](#reiniciant-el-sistema)
 2) [**Segona part de la post-instal·lació:**](#part-ii-palodora-2sh)
 - [Aplicant fix del rellotge](#aplicant-fix-del-rellotge) (només per usuaris amb *dual boot* de Windows + Fedora)
@@ -147,7 +146,7 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 ## Instal·lació automàtica de múltiples programes i/o aplicacions
   
-`sudo dnf install -y neofetch screenfetch bpytop xclip filezilla fontawesome-fonts gnome-shell-extension-dash-to-dock gnome-shell-extension-netspeed micro papirus-icon-theme discord gnome-pomodoro gnome-shell-extension-user-theme alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree drawing telegram-desktop android-tools gnome-sound-recorder dconf-editor kdenlive ffmpegthumbs htop qbittorrent curl git handbrake-gui tilix* obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl xorg-x11-drv-amdgpu grub-customizer vim steam git mesa-libGLU.i686 timeshift htop lutris`
+`sudo dnf install -y libfreeaptx pipewire-codec-aptx neofetch screenfetch bpytop xclip filezilla fontawesome-fonts gnome-shell-extension-dash-to-dock gnome-shell-extension-netspeed micro papirus-icon-theme discord gnome-pomodoro gnome-shell-extension-user-theme alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree drawing telegram-desktop android-tools gnome-sound-recorder dconf-editor kdenlive ffmpegthumbs htop qbittorrent curl git handbrake-gui tilix* obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl xorg-x11-drv-amdgpu grub-customizer vim steam git mesa-libGLU.i686 timeshift htop lutris`
   
 `sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm`
   
