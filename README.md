@@ -26,7 +26,7 @@
 
 ---
 
-# Part I (**`palodora-1.sh`**)
+# Part I - **`palodora-1.sh`**
   
 <div align="center">
   
@@ -88,7 +88,7 @@ En aquest cas, l'anomenaré "**linux**"
 
 ---
 
-# Part II (**`palodora-2.sh`**)
+# Part II - **`palodora-2.sh`**
   
 <div align="center">
   
