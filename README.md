@@ -10,7 +10,7 @@
 ---
   
 1) [Primera part de la post-instal·lació](#part-i-palodora-1sh)
-1.1) [Aplicar tweaks d'optimització](#aplicant-tweaks-doptimització)
+- [Aplicar tweaks d'optimització](#aplicant-tweaks-doptimització)
 2) [Segona part de la post-instal·lació](#part-ii-palodora-2sh)
   
 ---
