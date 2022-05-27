@@ -135,6 +135,16 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 **`enabled=1`**
   
 **`RPMREPO`**
+  
+**`git clone https://github.com/luisrguerra/wow64-icon-theme.git`**
+
+**`cd wow64-icon-theme`**
+
+**`sudo sh ./install.sh`**
+
+**`cd`**
+
+**`rm -r -f wow64-icon-theme`**
 
 **`sudo dnf check-update -y`**
   
