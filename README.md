@@ -130,7 +130,7 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 
 ## Desinstal·lació automàtica de múltiples programes i/o aplicacions:  
 
-**`sudo dnf remove -y gnome-terminal libreoffice*`**
+**`sudo dnf remove -y gnome-terminal libreoffice* rhythmbox* fedora-chromium-config`**
   
 ## Actualitzant el equip i netejant la brossa
 
@@ -152,8 +152,7 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 
 # HAN
 
-*`sudo dnf remove -y rhythmbox rhythmbox-alternative-toolbar fedora-chromium-config`*
-*`[Per desinstal·lar folder]`*
+*`sudo dnf remove -y [Per desinstal·lar folder]`*
   
 </div>
 
