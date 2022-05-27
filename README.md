@@ -63,7 +63,7 @@ Obrir la Terminal i anar copiant i enganxant les ordres:
   
 <h3 align="center">Reiniciar el sistema</h3>
 
-<p align="center"><b>`sudo reboot now`</b></p>
+<p align="center">`sudo reboot now`</p>
   
 ## Fix del rellotge
   
