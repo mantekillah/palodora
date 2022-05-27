@@ -130,35 +130,8 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 **`sudo dnf install -y webapp-manager`**
   
-### Preparant la descarrega del *Visual Studio Code*
+# TEST
   
-`sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc`
-
-`sudo sh -c "echo -e '[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/vscode.repo"`
-  
-`sudo dnf check-update -y`
-
-### Instal·lo *neofetch*, *screenfetch*, *GIMP*, drivers d'*Nvidia*, *VSCode*, *Google Chrome* i dependències de l'*ONLYOFFICE*
-  
-`sudo dnf install -y neofetch screenfetch gimp akmod-nvidia xorg-x11-drv-nvidia-cuda code google-chrome-stable dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts`
-  
-### Instal·lo *ONLYOFFICE*
-  
-`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`
-  
-`https://download.opera.com/download/get/?partner=www&opsys=Linux&package=RPM`
-`https://go.microsoft.com/fwlink/p/?LinkID=2112907&clcid=0x409&culture=en-us&country=US`
-  
-`sudo dnf install -y fedora-workstation-repositories`
-  
-`sudo dnf config-manager --set-enabled google-chrome`
-
-`sudo dnf install -y google-chrome-stable`
-  
-`sudo dnf copr enable -y refi64/webapp-manager`
-
-`sudo dnf install -y webapp-manager`
-
 `sudo dnf install -y bpytop xclip filezilla fontawesome-fonts gnome-shell-extension-dash-to-dock gnome-shell-extension-netspeed gnome-shell-extension-gpaste micro papirus-icon-theme discord gnome-pomodoro gnome-shell-extension-user-theme simplescreenrecorder alien bleachbit gparted vlc p7zip* gnome-tweaks gnome-extensions-app chrome-gnome-shell lame gpart ffmpeg tree telegram-desktop android-tools gnome-sound-recorder supertux dconf-editor kdenlive ffmpegthumbs htop qbittorrent curl git handbrake-gui obs-studio discord gstreamer-plugins* gstreamer1-plugins* pip google-chrome-stable kernel-headers kernel-devel gcc glibc-headers make dkms file-roller file-roller-nautilus cpu-x gnome-power-manager cabextract xorg-x11-font-utils fontconfig musescore pdfarranger youtube-dl xorg-x11-drv-amdgpu grub-customizer vim steam git mesa-libGLU.i686 timeshift htop lutris`
   
 `sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm`
