@@ -76,7 +76,7 @@ En aquest cas, l'anomenaré "**linux**"
   
 **`sudo dnf install -y \*-firmware`**
   
-## Instal·lant *Tilix*
+## Instal·lant 'Tilix'
   
 **`sudo dnf install -y tilix*`**
 
