@@ -17,7 +17,7 @@
   
 Obrir la Terminal i anar copiant i enganxant les ordres.
   
-#### Aplicar tweaks d'optimització:
+## Aplicar tweaks d'optimització:
 
 **`echo "fastestmirror=True" | sudo tee -a /etc/dnf/dnf.conf`**
 
@@ -29,17 +29,17 @@ Obrir la Terminal i anar copiant i enganxant les ordres.
 
 `echo "deltarpm=True" | sudo tee -a /etc/dnf/dnf.conf`
 
-#### Actualitzar el sistema:
+## Actualitzar el sistema:
 
 `sudo dnf update -y --refresh`
 
 `sudo dnf upgrade -y`
 
-#### Establir el nom de la màquina:
+## Establir el nom de la màquina:
 
 `sudo hostnamectl set-hostname linux` (en aquest cas, l'anomeno "***linux***")
 
-#### Activar RPM Fusion (*free* i *nonfree*):
+## Activar RPM Fusion (*free* i *nonfree*):
 
 `sudo dnf install -y fedora-workstation-repositories`
   
@@ -59,11 +59,11 @@ Obrir la Terminal i anar copiant i enganxant les ordres.
   
 `sudo dnf install -y \*-firmware`
 
-#### Instal·lar alguns còdecs:
+## Instal·lar alguns còdecs:
 
 `sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`
   
-#### Reiniciar el sistema:
+## Reiniciar el sistema:
 
 `sudo reboot now`
   
