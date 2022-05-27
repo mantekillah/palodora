@@ -96,26 +96,24 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
 
 **`sudo dnf install -y akmod-nvidia xorg-x11-drv-nvidia-cuda`**
 
-echo "Instal·lant VSCode..."
-sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
-sudo sh -c "echo -e '[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/vscode.repo"
-sudo dnf check-update -y
-sudo dnf install -y code
-echo "Fet! VSCode instal·lat."
+## Instal·lant Visual Studio Code:
+  
+**`sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc`**
+  
+**`sudo sh -c "echo -e '[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/vscode.repo"`**
 
-clear
+**`sudo dnf check-update -y`**
 
-echo "Instal·lant neofetch i screenfetch..."
-sudo dnf install -y neofetch screenfetch
-echo "Fet! neofetch i screenfetch instal·lats."
-neofetch
+**`sudo dnf install -y code`**
 
-clear
+## Instal·lant neofetch + screenfetch:
+  
+**`sudo dnf install -y neofetch screenfetch`**
 
-echo "Instal·lant GIMP..."
-sudo dnf install -y gimp
-echo "Fet! GIMP instal·lat."
-
+## Instal·lant GIMP:
+  
+**`sudo dnf install -y gimp`**
+  
 ## Instal·lant Google Chrome:
 
 **`sudo dnf install -y google-chrome-stable`**
