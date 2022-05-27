@@ -76,7 +76,7 @@ En aquest cas, l'anomenaré "**linux**"
   
 **`sudo dnf install -y \*-firmware`**
   
-## Instal·lant 'Tilix'
+## Instal·lant 'Tilix':
   
 **`sudo dnf install -y tilix*`**
 
@@ -164,7 +164,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 **`sudo dnf remove -y gnome-tour gnome-contacts gnome-terminal libreoffice* rhythmbox* yelp fedora-chromium-config mediawriter gnome-maps gnome-weather gnome-photos totem`**
   
-## Actualitzant el equip i netejant la brossa
+## Actualitzant el equip i netejant la brossa:
 
 **`flatpak update -y`**
 
