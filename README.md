@@ -9,8 +9,8 @@
   
 ---
   
-1) Primera part de la post-instal·lació (#part-i-palodora-1sh)
-2) Segona part de la post-instal·lació (#part-ii-palodora-2sh)
+1) [Primera part de la post-instal·lació](#part-i-palodora-1sh)
+2) [Segona part de la post-instal·lació](#part-ii-palodora-2sh)
   
 ---
 
