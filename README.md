@@ -179,6 +179,9 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
 **`sudo reboot now`**
   
 # HAN
+  
+sudo sh -c "echo -e '[teams]\nname=Microsoft Teams\nbaseurl=https://packages.microsoft.com/repos/ms-teams\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/teams.repo"
+  
 `LBRY`
 `Microsoft Teams`
 `PeaZip`
