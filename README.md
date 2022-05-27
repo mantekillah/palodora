@@ -78,10 +78,6 @@ En aquest cas, l'anomenaré "**linux**"
   
 **`sudo dnf install -y \*-firmware`**
 
-## Instal·lant alguns còdecs:
-
-**`sudo dnf mark -y install libfreeaptx pipewire-codec-aptx`**
-  
 ## Reiniciant el sistema:
 
 **`sudo reboot now`**
