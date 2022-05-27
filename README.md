@@ -84,24 +84,17 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
   
 ## Aplicant fix del rellotge*:
 
-*- Fix necessàri per a persones que tenen dualboot de Fedora amb Windows.
+*- fix necessàri per als que tenen un Dual Boot de Fedora amb Windows.
   
-sudo timedatectl set-local-rtc 1
-echo "Fet! Fix del rellotge (dualboot) aplicat"
+**`sudo timedatectl set-local-rtc 1`**
 
-clear
+## Habilitant la paqueteria Flatpak:
+  
+**`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`**
 
-echo "Habilitant la paqueteria Flatpak..."
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-echo "Fet! Paqueteria Flatpak habilitada."
+## Instal·lant drivers d'Nvidia:
 
-clear
-
-echo "Instal·lant drivers d'Nvidia..."
-sudo dnf install -y akmod-nvidia xorg-x11-drv-nvidia-cuda
-echo "Fet! Drivers d'Nvidia instal·lats."
-
-clear
+**`sudo dnf install -y akmod-nvidia xorg-x11-drv-nvidia-cuda`**
 
 echo "Instal·lant VSCode..."
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
@@ -142,10 +135,6 @@ echo "Instal·lant WebApp Manager..."
 sudo dnf copr enable -y refi64/webapp-manager
 sudo dnf install -y webapp-manager
 echo "Fet! WebApp Manager instal·lat."
-  
-#### Fix del rellotge
-  
-`sudo timedatectl set-local-rtc 1`
 
 ## Habilitar Flatpak
 
