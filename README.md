@@ -18,7 +18,7 @@
 - [Reiniciar el sistema](#reiniciant-el-sistema)
 2) [**Segona part de la post-instal·lació:**](#part-ii-palodora-2sh)
 - [Aplicant fix del rellotge](#aplicant-fix-del-rellotge) (només per usuaris amb *dual boot* de Windows + Fedora)
-- [habilitar la paqueteria *Flatpak*](#habilitant-la-paqueteria-flatpak)
+- [Habilitar la paqueteria *Flatpak*](#habilitant-la-paqueteria-flatpak)
 - [Instal·lar drivers d'*Nvidia*](#installant-drivers-dnvidia) (només per usuaris que tenen una GPU Nvidia)
   
 ---
