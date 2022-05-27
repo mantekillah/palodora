@@ -21,7 +21,6 @@
 - [Habilitar la paqueteria *Flatpak*](#habilitant-la-paqueteria-flatpak)
 - [Instal·lar drivers d'*Nvidia*](#installant-drivers-dnvidia) (només per usuaris que tenen una GPU Nvidia)
 - [Instal·lar *Visual Studio Code*](#installant-vscode)
-- [Instal·lar *neofetch* + *screenfetch*](#installant-neofetch--screenfetch)
 - [Instal·lar *GIMP*](#installant-gimp)
 - [Instal·lar *Google Chrome*](#installant-chrome)
 - [Instal·lar *ONLYOFFICE*](#installant-onlyoffice)
@@ -121,10 +120,6 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
 **`sudo dnf check-update -y`**
 
 **`sudo dnf install -y code`**
-
-## Instal·lant *neofetch* + *screenfetch*:
-  
-**`sudo dnf install -y `**
 
 ## Instal·lant *GIMP*:
   
