@@ -13,7 +13,7 @@
   
 ---
 
-# Part 1 (**`palodora-1.sh`**)
+# Part I (**`palodora-1.sh`**)
   
 <div align="center">
   
@@ -75,6 +75,8 @@ En aquest cas, l'anomenaré "**linux**"
 
 ---
 
+# Part II (**`palodora-2.sh`**)
+  
 <div align="center">
   
 Després del reinici, torna a obrir la Terminal i continua copiant i enganxant les ordres.
