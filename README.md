@@ -94,11 +94,9 @@ En aquest cas, l'anomenaré "**linux**"
   
 Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar copiant i enganxant les ordres.
   
-## Aplicant fix del rellotge*:
+## Aplicant fix del rellotge:
   
 **`sudo timedatectl set-local-rtc 1`**
-
-*- fix necessàri per als que tenen un Dual Boot de Fedora amb Windows.
   
 ## Habilitant la paqueteria *Flatpak*:
   
