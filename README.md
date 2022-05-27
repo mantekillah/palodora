@@ -22,7 +22,7 @@
 - [Instal·lació automàtica de múltiples programes i/o aplicacions](#installació-automàtica-de-múltiples-programes-io-aplicacions)
 - [Desinstal·lació automàtica de múltiples programes i/o aplicacions](#desinstallació-automàtica-de-múltiples-programes-io-aplicacions)
 - [Actualitzar el equip i netejar brossa](#actualitzant-el-equip-i-netejant-la-brossa)
-- [Reiniciar el sistema](#reiniciant-el-sistema)
+- [Reiniciar el sistema](#reiniciant-el-sistema-1)
 
 ---
 
