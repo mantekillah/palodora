@@ -15,7 +15,7 @@
   
 Obrir la Terminal i anar copiant i enganxant les ordres:
   
-### Aplicar tweaks d'optimització
+<h3 align="center">Aplicar tweaks d'optimització</h3>
 
 `echo "fastestmirror=True" | sudo tee -a /etc/dnf/dnf.conf`
 
