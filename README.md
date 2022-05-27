@@ -20,10 +20,10 @@
 - [Aplicant fix del rellotge](#aplicant-fix-del-rellotge) (només per usuaris amb *dual boot* de Windows + Fedora)
 - [Habilitar la paqueteria *Flatpak*](#habilitant-la-paqueteria-flatpak)
 - [Instal·lar drivers d'*Nvidia*](#installant-drivers-dnvidia) (només per usuaris que tenen una GPU Nvidia)
-- [Instal·lar *Visual Studio Code*](#installant-visual-studio-code)
+- [Instal·lar *Visual Studio Code*](#installant-vscode)
 - [Instal·lar *neofetch* + *screenfetch*](#installant-neofetch--screenfetch)
 - [Instal·lar *GIMP*](#installant-gimp)
-- [Instal·lar *Google Chrome*](#installant-google-chrome)
+- [Instal·lar *Google Chrome*](#installant-chrome)
 - [Instal·lar *ONLYOFFICE*](#installant-onlyoffice)
 - [Instal·lar *WebbApp Manager*](#installant-webapp-manager)
 - [Desinstal·lar *LibreOffice*](#desinstallant-libreoffice)
@@ -104,15 +104,15 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
 
 *- fix necessàri per als que tenen un Dual Boot de Fedora amb Windows.
   
-## Habilitant la paqueteria Flatpak:
+## Habilitant la paqueteria *Flatpak*:
   
 **`flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`**
 
-## Instal·lant drivers d'Nvidia:
+## Instal·lant drivers d'*Nvidia*:
 
 **`sudo dnf install -y akmod-nvidia xorg-x11-drv-nvidia-cuda`**
 
-## Instal·lant Visual Studio Code:
+## Instal·lant *VSCode*:
   
 **`sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc`**
   
@@ -122,31 +122,31 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
 
 **`sudo dnf install -y code`**
 
-## Instal·lant neofetch + screenfetch:
+## Instal·lant *neofetch* + *screenfetch*:
   
 **`sudo dnf install -y neofetch screenfetch`**
 
-## Instal·lant GIMP:
+## Instal·lant *GIMP*:
   
 **`sudo dnf install -y gimp`**
   
-## Instal·lant Google Chrome:
+## Instal·lant *Chrome*:
 
 **`sudo dnf install -y google-chrome-stable`**
 
-## Instal·lant ONLYOFFICE:
+## Instal·lant *ONLYOFFICE*:
   
 **`sudo dnf install -y dejavu-sans-fonts dejavu-sans-mono-fonts liberation-narrow-fonts dejavu-serif-fonts`**
 
 **`sudo rpm -i https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm`**
 
-## Instal·lant WebApp Manager:
+## Instal·lant *WebApp Manager*:
 
 **`sudo dnf copr enable -y refi64/webapp-manager`**
   
 **`sudo dnf install -y webapp-manager`**
   
-## Desinstal·lant LibreOffice:
+## Desinstal·lant *LibreOffice*:
   
 **`sudo dnf remove -y libreoffice*`**
   
