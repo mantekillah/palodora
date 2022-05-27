@@ -71,7 +71,9 @@ Obrir la Terminal i anar copiant i enganxant les ordres.
 
 ---
 
-Després del reinici, torna a obrir la Terminal i continua copiant i enganxant les ordres:
+<div align="center">
+  
+Després del reinici, torna a obrir la Terminal i continua copiant i enganxant les ordres.
   
 #### Fix del rellotge
   
@@ -142,6 +144,8 @@ Després del reinici, torna a obrir la Terminal i continua copiant i enganxant l
 `sudo dnf autoremove`
 
 `sudo dnf clean all`
+  
+</div>
 
 ---
   
