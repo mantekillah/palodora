@@ -173,6 +173,8 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 **`flatpak install -y flathub com.github.muriloventuroso.pdftricks`**
   
 **`flatpak install -y flathub io.gitlab.librewolf-community`**
+
+**`flatpak install -y flathub com.github.robertsanseries.ciano`**
   
 **`flatpak install -y flathub net.cozic.joplin_desktop`**
   
