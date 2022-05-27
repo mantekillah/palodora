@@ -145,6 +145,16 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 **`cd`**
 
 **`rm -r -f wow64-icon-theme`**
+  
+**`git clone https://github.com/vinceliuice/Colloid-gtk-theme.git`**
+
+**`cd Colloid-gtk-theme`**
+
+**`sudo sh ./install.sh`**
+
+**`cd`**
+
+**`rm -r -f Colloid-gtk-theme`**
 
 **`sudo dnf check-update -y`**
   
