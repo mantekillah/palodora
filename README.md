@@ -116,7 +116,25 @@ Després del reinici, cal obrir **Tilix** i continuar copiant i enganxant les or
   
 **`sudo sh -c "echo -e '[teams]\nname=Microsoft Teams\nbaseurl=https://packages.microsoft.com/yumrepos/ms-teams\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc' > /etc/yum.repos.d/teams.repo"`**
   
-**`sudo sh -c "echo -e [opera]\nname=Opera Browser\nbaseurl=ttps://rpm.opera.com/rpm\nenabked=1\ngpgcheck=1\ngpgkey=https://rpm.opera.com/rpmrepo.key > /etc/yum.repos.d/opera.repo`**
+**`sudo rpm --import https://rpm.opera.com/rpmrepo.key`**
+  
+**`sudo tee /etc/yum.repos.d/opera.repo <<RPMREPO`**
+  
+**`[opera]`**
+  
+**`name=Opera packages`**
+  
+**`type=rpm-md`**
+  
+**`baseurl=https://rpm.opera.com/rpm`**
+  
+**`gpgcheck=1`**
+  
+**`gpgkey=https://rpm.opera.com/rpmrepo.key`**
+  
+**`enabled=1`**
+  
+**`RPMREPO`**
 
 **`sudo dnf check-update -y`**
   
