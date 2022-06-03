@@ -197,6 +197,8 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 **`gsettings set org.gnome.desktop.interface gtk-theme 'Colloid-Purple-Dark-Dracula'`**
 	
 **`gsettings set org.gnome.shell.extensions.user-theme name 'Colloid-Purple-Dark-Dracula'`**
+	
+**`gsettings set org.gnome.desktop.interface monospace-font-name 'Source Code Pro Semi-Bold 11'`**
 
 **`flatpak update -y`**
 
