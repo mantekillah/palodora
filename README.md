@@ -105,8 +105,6 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 **`sudo flatpak override --filesystem=~/.themes`**
   
 ## Instal·lació automàtica de múltiples programes i/o aplicacions:
-
-**`gsettings set com.gexperts.Tilix.Settings theme-variant 'dark'`**
   
 **`sudo dnf copr enable -y refi64/webapp-manager`**
   
@@ -191,6 +189,14 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 **`sudo dnf remove -y gnome-tour gnome-contacts gnome-terminal libreoffice* rhythmbox* yelp fedora-chromium-config mediawriter gnome-maps gnome-weather gnome-photos totem`**
   
 ## Actualitzant el equip i netejant la brossa:
+
+**`gsettings set com.gexperts.Tilix.Settings theme-variant 'dark'`**
+
+**`gsettings set org.gnome.desktop.interface icon-theme 'Wow64'`**
+
+**`gsettings set org.gnome.desktop.interface gtk-theme 'Colloid-Purple-Dark-Dracula'`**
+	
+**`gsettings set org.gnome.shell.extensions.user-theme name 'Colloid-Purple-Dark-Dracula'`**
 
 **`flatpak update -y`**
 
