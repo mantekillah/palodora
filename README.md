@@ -192,7 +192,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 **`gsettings set com.gexperts.Tilix.Settings theme-variant 'dark'`**
 
-**`gsettings set org.gnome.desktop.interface icon-theme 'Wow64'`**
+**`gsettings set org.gnome.desktop.interface icon-theme 'wow64'`**
 
 **`gsettings set org.gnome.desktop.interface gtk-theme 'Colloid-Purple-Dark-Dracula'`**
 	
