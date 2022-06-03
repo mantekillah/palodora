@@ -274,14 +274,15 @@ Obre la Terminal:
 </details>
 
 <details>
-	<summary>Per fer manualment:</summary>
-</details>
+	<summary><b>🚧 Per fer manualment</b> (sí o sí)</summary>
 
 - **Afegir extensions** manualment (utilitzant el ***Gestor d'extensions*** que hem instal·lat abans):
 	- `Blur my Shell` - *aunetx* / `Color Picker` - *grroot* / `Desktop Icons NG (DING)` - *rastersoft* / `Espresso` - *tharbold* / `GSConnect` - *dlandau* / `Impatience` - *gfxmonk* / `Screenshot Tool` - *oal* / `Sound Input & Output Device Chooser` - *kgshank* / `Tiling Assistant` - *Leleat* / `Tray Icons: Reloaded` - *MartinPL* / `Pop Shell` - *System76* (instal·lada previament amb `sudo dnf gnome-shell-extension-pop-shell`)
 - **Extensions** `AppIndicator and KStatusNotifierItem Support`, `Dash to Dock` & `User Themes` **activades**.
 - **WebApps** (a través de *Chrome*):
 	- `Drive` `Campus Virtual` `Twitter` `Netflix` `Movistar Plus` `Amazon Prime` `WhatsApp Web` `Instagram` `Mastodon` `Pixelfed`
+
+</details>
 
 ### To-Do-List
 
