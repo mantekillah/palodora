@@ -240,6 +240,26 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
   <summary><b>🚧 Descarrega l'script</b></summary>
 
 <p align="center"><b>L'script encara no està disponible.</b></p>
+
+`git clone https://github.com/mantekillah/palodora.git`
+	
+`cd palodora`
+	
+`sudo chmod +x paloscript1.sh`
+	
+`sudo chmod +x paloscript2.sh`
+
+`sudo sh ./paloscript1.sh`
+
+Reinici.
+
+`cd palodora`
+	
+`sudo sh ./paloscript2.sh`
+
+Reinici.
+
+`rm palodora`
   
 ---
 
