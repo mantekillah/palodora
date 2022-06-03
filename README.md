@@ -188,7 +188,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 **`sudo dnf remove -y gnome-tour gnome-contacts gnome-terminal libreoffice* rhythmbox* yelp fedora-chromium-config mediawriter gnome-maps gnome-weather gnome-photos totem`**
   
-## Actualitzant el equip i netejant la brossa:
+## Settejant cosetes:
 
 **`gsettings set com.gexperts.Tilix.Settings theme-variant 'dark'`**
 
@@ -199,6 +199,20 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 **`gsettings set org.gnome.shell.extensions.user-theme name 'Colloid-Green-Dark-Dracula'`**
 	
 **`gsettings set org.gnome.desktop.interface monospace-font-name 'Source Code Pro Semi-Bold 11'`**
+
+**`gsettings set org.gnome.desktop.peripherals.mouse accel-profile 'adaptive'`**
+	
+**`gsettings set org.gnome.desktop.sound allow-volume-above-100-percent true`**
+
+**`gsettings set org.gnome.desktop.calendar show-weekdate true`**
+
+**`gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true`**
+
+**`gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:minimize,maximize,close'`**
+
+**`gsettings set org.gnome.shell.overrides workspaces-only-on-primary false`**
+	
+## Actualitzant el equip i netejant la brossa:
 
 **`flatpak update -y`**
 
