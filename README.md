@@ -284,7 +284,7 @@ Obre la Terminal:
 	- `Sound Input & Output Device Chooser` - *kgshank*
 	- `Tiling Assistant` - *Leleat*
 	- `Tray Icons: Reloaded` - *MartinPL*
-	- `Pop Shell` - *System76*
+	- `Pop Shell` - *System76* (instal·lada previament amb `sudo dnf gnome-shell-extension-pop-shell`)
 - ***AppIndicator and KStatusNotifierItem Support***, ***Dash to Dock*** & ***User Themes*** activats.
 - **WebApps** (a través de *Chrome*):
 	- `Drive`
