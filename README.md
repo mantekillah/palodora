@@ -105,6 +105,8 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 **`sudo flatpak override --filesystem=~/.themes`**
   
 ## Instal·lació automàtica de múltiples programes i/o aplicacions:
+
+**`gsettings set com.gexperts.Tilix.Settings theme-variant 'dark'`**
   
 **`sudo dnf copr enable -y refi64/webapp-manager`**
   
