@@ -237,9 +237,9 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 </details>
 
 <details>
-  <summary><b>🚧 Descarrega l'script</b></summary>
+  <summary><b>🚧 Descarrega els scripts</b></summary>
 
-<p align="center"><b>L'script encara no està disponible.</b></p>
+<div align="center">
 
 `git clone https://github.com/mantekillah/palodora.git`
 	
@@ -260,6 +260,8 @@ Reinici.
 Reinici.
 
 `rm palodora`
+	
+</div>
   
 ---
 
