@@ -287,16 +287,7 @@ Obre la Terminal:
 	- `Pop Shell` - *System76* (instal·lada previament amb `sudo dnf gnome-shell-extension-pop-shell`)
 - ***AppIndicator and KStatusNotifierItem Support***, ***Dash to Dock*** & ***User Themes*** activats.
 - **WebApps** (a través de *Chrome*):
-	- `Drive`
-	- `Campus Virtual`
-	- `Twitter`
-	- `Netflix`
-	- `Movistar Plus`
-	- `Amazon Prime`
-	- `WhatsApp Web`
-	- `Instagram`
-	- `Mastodon`
-	- `Pixelfed`
+	- `Drive` `Campus Virtual` `Twitter` `Netflix` `Movistar Plus` `Amazon Prime` `WhatsApp Web` `Instagram` `Mastodon` `Pixelfed`
 
 ### To-Do-List
 
