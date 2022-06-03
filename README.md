@@ -241,7 +241,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 <div align="center">
 
-Obre la Terminal i ves enganxant:
+Obre la Terminal:
 	
 `git clone https://github.com/mantekillah/palodora.git`
 	
@@ -255,12 +255,16 @@ Obre la Terminal i ves enganxant:
 
 **Reinici.**
 
+Obre la Terminal:
+	
 `cd palodora`
 	
 `sudo sh ./paloscript2.sh`
 
 **Reinici.**
 
+Obre la Terminal:
+	
 `rm palodora`
 	
 </div>
