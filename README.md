@@ -237,7 +237,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 </details>
 
 <details>
-  <summary><b>🚧 Descarrega els scripts</b></summary>
+  <summary><b>Descarrega els scripts</b></summary>
 
 <div align="center">
 
