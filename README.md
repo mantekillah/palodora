@@ -150,7 +150,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 **`cd Colloid-gtk-theme`**
 
-**`sudo sh ./install.sh --theme purple --tweaks dracula rimless`**
+**`sudo sh ./install.sh --theme all --tweaks dracula rimless`**
 
 **`cd`**
 
@@ -196,7 +196,7 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 **`gsettings set org.gnome.desktop.interface gtk-theme 'Colloid-Purple-Dark-Dracula'`**
 	
-**`gsettings set org.gnome.shell.extensions.user-theme name 'Colloid-Purple-Dark-Dracula'`**
+**`gsettings set org.gnome.shell.extensions.user-theme name 'Colloid-Green-Dark-Dracula'`**
 	
 **`gsettings set org.gnome.desktop.interface monospace-font-name 'Source Code Pro Semi-Bold 11'`**
 
