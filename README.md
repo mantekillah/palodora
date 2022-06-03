@@ -245,17 +245,17 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 </details>
 
-- **Afegir '*Extensions*'** manualment:
-	- Blur my Shell - aunetx
-	- Color Picker - grroot
-	- Desktop Icons NG (DING) - rastersoft
-	- Espresso - tharbold
-	- GSConnect - dlandau
-	- Impatience - gfxmonk
-	- Screenshot Tool - oal
-	- Sound Input & Output Device Chooser - kgshank
-	- Tiling Assistant - Leleat
-	- Tray Icons: Reloaded - MartinPL
+- **Afegir extensions** manualment (utilitzant el ***Gestor d'extensions*** que hem instal·lat abans):
+	- `Blur my Shell` - aunetx
+	- `Color Picker` - grroot
+	- `Desktop Icons NG (DING)` - rastersoft
+	- `Espresso` - tharbold
+	- `GSConnect` - dlandau
+	- `Impatience` - gfxmonk
+	- `Screenshot Tool` - oal
+	- `Sound Input & Output Device Chooser` - kgshank
+	- `Tiling Assistant` - Leleat
+	- `Tray Icons: Reloaded` - MartinPL
 	- pop-shell@system76.com [Pop Shell]
 
 ### To-Do-List
