@@ -245,17 +245,17 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 </details>
 
-- **Afegir apartat '*Extensions*'** tant a l'explicació com a l'script:
+- **Afegir '*Extensions*'** manualment:
 	- Blur my Shell - aunetx
 	- Color Picker - grroot
 	- Desktop Icons NG (DING) - rastersoft
-	- espresso@coadmunkee.github.com [Espresso]
-	- gsconnect@andyholmes.github.io [GSConnect]
-	- impatience@gfxmonk.net [Impatience]
-	- gnome-shell-screenshot@ttll.de [Screenshot Tool]
-	- sound-output-device-chooser@kgshank.net
-	- tiling-assistant@leleat-on-github [Tiling Assistant]
-	- trayIconsReloaded@selfmade.pl [Tray Icons: Reloaded]
+	- Espresso - tharbold
+	- GSConnect - dlandau
+	- Impatience - gfxmonk
+	- Screenshot Tool - oal
+	- Sound Input & Output Device Chooser - kgshank
+	- Tiling Assistant - Leleat
+	- Tray Icons: Reloaded - MartinPL
 	- pop-shell@system76.com [Pop Shell]
 
 ### To-Do-List
