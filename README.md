@@ -241,6 +241,8 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 <div align="center">
 
+A la Terminal:
+	
 `git clone https://github.com/mantekillah/palodora.git`
 	
 `cd palodora`
