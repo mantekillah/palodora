@@ -256,7 +256,8 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 	- `Sound Input & Output Device Chooser` - *kgshank*
 	- `Tiling Assistant` - *Leleat*
 	- `Tray Icons: Reloaded` - *MartinPL*
-	- pop-shell@system76.com [Pop Shell]
+	- `Pop Shell` - *System76*
+- ***AppIndicator and KStatusNotifierItem Support***, ***Dash to Dock*** & ***User Themes*** activats.
 
 ### To-Do-List
 
