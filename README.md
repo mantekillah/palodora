@@ -301,8 +301,7 @@ Obre la Terminal:
 ### To-Do-List
 
 - ***Chequiar* '[fedora fresh install](https://github.com/search?q=fedora+fresh+install&type=Repositories)'** a veure que no em descuidi cap cosa.
-- **Repassar l'script 1** per tal que cuadri amb les explicacions.
-- **Refer de 0 l'script 2** perque he canviat masses coses mentres feia l'explicació.
+- **Refer de 0 els dos scripts** perque he canviat masses coses mentres feia tota l'explicació.
 - **Provar el jove Frankenstein by mantekillah** en una instal·lació i màquina real.
 
 [license-shield]: https://img.shields.io/github/license/mantekillah/palodora.svg
