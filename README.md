@@ -243,6 +243,8 @@ Després del reinici, cal obrir **Tilix** (traurem *gnome-terminal*) i continuar
 
 Obre la Terminal:
 	
+`sudo dnf install -y git`
+	
 `git clone https://github.com/mantekillah/palodora.git`
 	
 `cd palodora`
